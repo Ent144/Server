@@ -85,73 +85,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:44:12 +0000"
     },
     "done": false
   },
@@ -194,6 +194,12 @@
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-12 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-07-13 02:39:08 +0000"
     },
     "done": true
   },
@@ -290,6 +296,12 @@
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2025-07-12 22:47:46 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-07-13 02:39:15 +0000"
     },
     "done": true
   },
@@ -476,6 +488,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-07-12 23:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-13 02:39:47 +0000"
     },
     "done": true
   },
@@ -947,6 +965,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-07-13 02:39:47 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-07-12 23:17:17 +0000"
@@ -1064,6 +1088,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-07-12 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-13 02:39:47 +0000"
     },
     "done": true
   },
@@ -1193,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-07-13 02:39:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-07-12 23:23:56 +0000"
@@ -1286,6 +1322,12 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-13 01:32:23 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-07-13 02:39:15 +0000"
     },
     "done": true
   },
@@ -2526,6 +2568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-07-13 02:39:08 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-07-12 23:01:07 +0000"
@@ -2926,6 +2974,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-13 02:38:08 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/birch": {
     "criteria": {
       "has_the_recipe": "2025-07-12 23:01:07 +0000"
@@ -3127,6 +3181,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-07-12 23:27:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-07-13 02:39:15 +0000"
     },
     "done": true
   },
@@ -3358,6 +3418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-13 02:39:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-07-12 22:57:42 +0000"
@@ -3526,6 +3592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-13 02:39:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-12 23:32:19 +0000"
@@ -3661,6 +3733,12 @@
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-07-12 22:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-13 02:39:08 +0000"
     },
     "done": true
   },
@@ -3853,6 +3931,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-07-13 02:39:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-12 22:49:10 +0000"
@@ -3907,6 +3991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-13 02:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-12 22:49:10 +0000"
@@ -3928,6 +4018,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-07-12 22:55:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/orange_sleeping_bag": {
+    "criteria": {
+      "has_orange_wool": "2025-07-13 02:39:08 +0000"
     },
     "done": true
   },
@@ -4129,6 +4225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-13 02:39:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-07-13 00:10:37 +0000"
@@ -4318,6 +4420,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-12 22:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-13 02:38:08 +0000"
     },
     "done": true
   },
