@@ -5117,3 +5117,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Jul2025 00:43:21.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Getting an Upgrade]
 [13Jul2025 00:44:09.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jul2025 00:44:09.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 00:49:09.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 00:49:09.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 00:49:32.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Knowledge of Death]
+[13Jul2025 00:49:32.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Ashes 'n Bones]
+[13Jul2025 00:54:09.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 00:54:09.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
