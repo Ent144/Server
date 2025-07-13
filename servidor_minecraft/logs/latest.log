@@ -135,3 +135,4 @@
 [13Jul2025 04:03:12.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Flying is not enabled on this server
 [13Jul2025 04:03:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
 [13Jul2025 04:29:23.269] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[13Jul2025 04:52:30.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-415, y=67, z=464} BlockPos{x=-415, y=65, z=465}
