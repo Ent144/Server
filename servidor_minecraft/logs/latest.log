@@ -105,3 +105,19 @@
 [13Jul2025 02:59:08.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has reached the goal [Strong or Careful]
 [13Jul2025 02:59:08.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Cave Spider
 [13Jul2025 02:59:08.828] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[13Jul2025 03:10:22.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=139, z=32} BlockPos{x=-759, y=137, z=33}
+[13Jul2025 03:10:22.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=139, z=32} BlockPos{x=-759, y=137, z=33}
+[13Jul2025 03:10:23.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=139, z=34} BlockPos{x=-760, y=137, z=34}
+[13Jul2025 03:10:23.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=139, z=34} BlockPos{x=-760, y=137, z=34}
+[13Jul2025 03:10:23.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=139, z=34} BlockPos{x=-760, y=137, z=34}
+[13Jul2025 03:15:14.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Suit Up]
+[13Jul2025 03:25:00.967] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[13Jul2025 03:35:37.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Amateur Archaeologist]
+[13Jul2025 03:37:37.431] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[13Jul2025 03:38:06.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Fortuitous Militia]
+[13Jul2025 03:39:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Hunt and Gather]
+[13Jul2025 03:40:03.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Ice Bucket Challenge]
+[13Jul2025 03:40:05.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Amateur Archaeologist]
+[13Jul2025 03:40:41.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Ice Bucket Challenge]
+[13Jul2025 03:44:58.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Who is Cutting Onions?]
+[13Jul2025 03:45:04.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Who is Cutting Onions?]
