@@ -27,3 +27,49 @@
 [13Jul2025 01:03:14.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristh715[/127.193.50.182:44093] logged in with entity id 44377 at (17.70386775763442, 79.0, -15.647715214242028)
 [13Jul2025 01:03:14.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 joined the game
 [13Jul2025 01:03:14.230] [Server thread/INFO] [Jade/]: Syncing config to Cristh715 (65fc72f0-a620-3eed-bb7d-2c1b8e2ec810)
+[13Jul2025 01:19:54.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 fell from a high place
+[13Jul2025 01:19:54.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Your First Grave]
+[13Jul2025 01:19:54.740] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[13Jul2025 01:20:26.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 was kicked for floating too long!
+[13Jul2025 01:20:26.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Flying is not enabled on this server
+[13Jul2025 01:20:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[13Jul2025 01:20:53.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristh715[/127.193.50.182:45837] logged in with entity id 62042 at (15.02574737897829, 121.83861325676158, 31.522316959343442)
+[13Jul2025 01:20:53.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 joined the game
+[13Jul2025 01:20:53.783] [Server thread/INFO] [Jade/]: Syncing config to Cristh715 (65fc72f0-a620-3eed-bb7d-2c1b8e2ec810)
+[13Jul2025 01:22:00.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 was kicked for floating too long!
+[13Jul2025 01:22:00.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Flying is not enabled on this server
+[13Jul2025 01:22:00.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[13Jul2025 01:22:45.557] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@34c38f14[id=<null>,name=Cristh715,properties={},legacy=false] (/127.193.50.182:52907): Took too long to log in
+[13Jul2025 01:22:45.558] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34c38f14[id=<null>,name=Cristh715,properties={},legacy=false] (/127.193.50.182:52907) lost connection: Took too long to log in
+[13Jul2025 01:22:45.607] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Jul2025 01:23:25.107] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4eb15438[id=<null>,name=Cristh715,properties={},legacy=false] (/127.193.50.182:46303) lost connection: Disconnected
+[13Jul2025 01:23:59.158] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@381340d7[id=<null>,name=Cristh715,properties={},legacy=false] (/127.193.50.182:60713) lost connection: Disconnected
+[13Jul2025 01:24:16.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristh715[/127.193.50.182:39783] logged in with entity id 66754 at (88.47860745267789, 61.09491619089974, 128.9787195843998)
+[13Jul2025 01:24:16.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 joined the game
+[13Jul2025 01:24:16.195] [Server thread/INFO] [Jade/]: Syncing config to Cristh715 (65fc72f0-a620-3eed-bb7d-2c1b8e2ec810)
+[13Jul2025 01:27:35.756] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2303f2c2[id=<null>,name=PussyDestroyer,properties={},legacy=false] (/127.161.61.225:33669) lost connection: Disconnected
+[13Jul2025 01:27:48.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.161.61.225:60527] logged in with entity id 71810 at (66.30000001192093, 107.0, 90.30000001192093)
+[13Jul2025 01:27:48.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[13Jul2025 01:27:48.560] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[13Jul2025 01:28:46.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Sweet Dreams]
+[13Jul2025 01:29:27.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Disconnected
+[13Jul2025 01:29:27.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[13Jul2025 01:30:14.305] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78195198[id=<null>,name=PussyDestroyer,properties={},legacy=false] (/127.161.61.225:42557) lost connection: Disconnected
+[13Jul2025 01:30:26.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.161.61.225:57071] logged in with entity id 75518 at (50.49532700075896, 115.0, 124.69999998807907)
+[13Jul2025 01:30:26.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[13Jul2025 01:30:26.130] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[13Jul2025 01:30:34.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Ent144
+[13Jul2025 01:30:34.971] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[13Jul2025 01:30:52.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 was kicked for floating too long!
+[13Jul2025 01:30:52.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Flying is not enabled on this server
+[13Jul2025 01:30:52.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[13Jul2025 01:31:16.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristh715[/127.193.50.182:50643] logged in with entity id 76905 at (10.837601059654284, 124.1107153084218, 31.696798232361928)
+[13Jul2025 01:31:16.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 joined the game
+[13Jul2025 01:31:16.135] [Server thread/INFO] [Jade/]: Syncing config to Cristh715 (65fc72f0-a620-3eed-bb7d-2c1b8e2ec810)
+[13Jul2025 01:31:19.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [A Strange Grave Dust]
+[13Jul2025 01:32:26.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has reached the goal [Here They Come]
+[13Jul2025 01:32:41.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Amateur Archaeologist]
+[13Jul2025 01:33:19.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer was slain by Cristh715
+[13Jul2025 01:33:19.021] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[13Jul2025 01:33:49.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Knowledge of Death]
+[13Jul2025 01:33:49.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Funeral Theft]
