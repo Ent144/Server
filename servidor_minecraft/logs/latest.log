@@ -83,3 +83,12 @@
 [13Jul2025 01:50:33.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
 [13Jul2025 01:58:27.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Safe Haven]
 [13Jul2025 02:03:03.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Best Friends Forever]
+[13Jul2025 02:17:02.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer fell from a high place
+[13Jul2025 02:17:02.821] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[13Jul2025 02:22:50.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Disconnected
+[13Jul2025 02:22:50.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[13Jul2025 02:23:19.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.161.61.225:51083] logged in with entity id 282431 at (-403.88855995409136, 103.0, 294.5189071837116)
+[13Jul2025 02:23:19.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[13Jul2025 02:23:19.534] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[13Jul2025 02:23:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer was slain by Zombie
+[13Jul2025 02:23:22.790] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
