@@ -6818,3 +6818,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Jul2025 03:51:40.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
 [13Jul2025 03:54:21.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jul2025 03:54:21.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 03:59:21.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 03:59:21.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 04:01:06.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Where Is The Stone Pen?]
+[13Jul2025 04:02:16.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has reached the goal [Strong or Careful]
+[13Jul2025 04:02:16.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer was slain by Zombie
+[13Jul2025 04:02:17.056] [Server thread/DEBUG] [tombstone/]: A new grave of the player PussyDestroyer was created at position [x:-799, y:106, z:332, dim:minecraft:overworld]
+[13Jul2025 04:02:17.070] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[13Jul2025 04:03:12.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer was kicked for floating too long!
+[13Jul2025 04:03:12.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Flying is not enabled on this server
+[13Jul2025 04:03:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[13Jul2025 04:04:21.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 04:04:21.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 04:09:21.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 04:09:21.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 04:14:21.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 04:14:21.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 04:19:21.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 04:19:21.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 04:24:21.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 04:24:21.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 04:29:21.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 04:29:21.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 04:29:23.269] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[13Jul2025 04:34:21.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 04:34:21.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

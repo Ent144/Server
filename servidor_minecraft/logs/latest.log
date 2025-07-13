@@ -127,3 +127,11 @@
 [13Jul2025 03:51:00.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8832ms or 176 ticks behind
 [13Jul2025 03:51:40.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Disconnected
 [13Jul2025 03:51:40.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[13Jul2025 04:01:06.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Where Is The Stone Pen?]
+[13Jul2025 04:02:16.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has reached the goal [Strong or Careful]
+[13Jul2025 04:02:16.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer was slain by Zombie
+[13Jul2025 04:02:17.070] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
+[13Jul2025 04:03:12.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer was kicked for floating too long!
+[13Jul2025 04:03:12.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Flying is not enabled on this server
+[13Jul2025 04:03:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[13Jul2025 04:29:23.269] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
