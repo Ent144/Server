@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-07-12 22:58:24 +0000"
@@ -329,6 +335,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/balustrade_granite_bridge": {
     "criteria": {
       "has_planks": "2025-07-12 23:27:56 +0000"
@@ -442,6 +454,12 @@
       "has_wood": "2025-07-12 23:02:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/timber_brace": {
     "criteria": {
@@ -581,6 +599,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2025-07-12 22:58:31 +0000"
@@ -598,6 +622,12 @@
       "has_wood": "2025-07-12 23:12:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
   },
   "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
     "criteria": {
@@ -821,6 +851,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-07-12 22:58:24 +0000"
@@ -965,6 +1001,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-07-12 23:00:47 +0000"
@@ -982,6 +1024,12 @@
       "has_logs": "2025-07-12 22:58:24 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
@@ -1036,6 +1084,12 @@
       "has_planks": "2025-07-12 23:02:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
@@ -1390,6 +1444,12 @@
       "has_stick": "2025-07-12 22:58:31 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
@@ -1866,6 +1926,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-07-12 23:00:47 +0000"
@@ -2021,6 +2087,12 @@
       "has_blackstone": "2025-07-12 22:58:24 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:10:10 +0000"
+    },
+    "done": false
   },
   "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
     "criteria": {
