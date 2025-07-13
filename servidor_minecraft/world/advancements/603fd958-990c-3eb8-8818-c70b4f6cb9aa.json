@@ -85,73 +85,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 02:24:12 +0000"
+      "log_spam_fixer": "2025-07-13 02:34:12 +0000"
     },
     "done": false
   },
@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-07-13 02:26:16 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-12 23:23:56 +0000"
@@ -644,6 +650,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-07-12 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-13 02:31:37 +0000"
     },
     "done": true
   },
@@ -2496,6 +2508,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-07-13 02:31:37 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-12 23:23:56 +0000"
@@ -2863,6 +2881,12 @@
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-07-12 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-07-13 02:31:37 +0000"
     },
     "done": true
   },
@@ -3694,6 +3718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-13 02:31:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2025-07-13 00:10:37 +0000"
@@ -3754,6 +3784,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-12 23:17:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 02:31:37 +0000"
     },
     "done": true
   },
@@ -4258,6 +4294,12 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-07-13 02:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-13 02:26:16 +0000"
     },
     "done": true
   },
