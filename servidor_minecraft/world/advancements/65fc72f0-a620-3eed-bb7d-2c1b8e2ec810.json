@@ -3591,6 +3591,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-07-13 02:05:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-07-13 01:33:49 +0000"
@@ -3727,6 +3733,7 @@
     "criteria": {
       "woodland": "2025-07-13 02:02:13 +0000",
       "highland": "2025-07-13 02:03:09 +0000",
+      "old_growth_woodland": "2025-07-13 02:04:17 +0000",
       "rocky_rainforest": "2025-07-13 01:52:54 +0000"
     },
     "done": false
@@ -3734,6 +3741,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-07-13 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-07-13 02:05:58 +0000"
     },
     "done": true
   },
