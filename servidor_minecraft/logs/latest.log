@@ -73,3 +73,9 @@
 [13Jul2025 01:33:19.021] [Server thread/INFO] [tombstone/]: The player PussyDestroyer has successfully been saved
 [13Jul2025 01:33:49.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Knowledge of Death]
 [13Jul2025 01:33:49.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Funeral Theft]
+[13Jul2025 01:37:16.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Suit Up]
+[13Jul2025 01:38:30.080] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-9, 29], pos: MutableBlockPos{x=-144, y=15, z=477}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[13Jul2025 01:38:30.080] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-9, 29], pos: MutableBlockPos{x=-144, y=16, z=477}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[13Jul2025 01:39:27.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=93, z=396} BlockPos{x=-69, y=92, z=395}
+[13Jul2025 01:41:59.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Ambush]
+[13Jul2025 01:44:39.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Crops of the Wild]

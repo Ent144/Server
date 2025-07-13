@@ -74,7 +74,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-07-13 01:05:05 +0000",
+      "minecraft:stony_peaks": "2025-07-13 01:39:37 +0000",
       "minecraft:river": "2025-07-13 01:04:31 +0000",
+      "minecraft:forest": "2025-07-13 01:39:47 +0000",
       "minecraft:lush_caves": "2025-07-13 00:52:21 +0000",
       "minecraft:jungle": "2025-07-13 00:19:20 +0000"
     },
@@ -3597,6 +3599,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-07-13 01:35:51 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-07-13 01:33:49 +0000"
@@ -3606,6 +3614,18 @@
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-07-13 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-13 01:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2025-07-13 01:37:16 +0000"
     },
     "done": true
   },
@@ -3660,6 +3680,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-07-13 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_boots": "2025-07-13 01:37:16 +0000"
     },
     "done": true
   },
