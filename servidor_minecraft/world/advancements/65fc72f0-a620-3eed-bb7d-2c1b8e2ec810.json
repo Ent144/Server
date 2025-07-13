@@ -3594,6 +3594,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 03:51:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2025-07-13 03:43:42 +0000"
@@ -3660,6 +3732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-07-13 02:45:52 +0000"
@@ -3681,6 +3759,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-13 03:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
     },
     "done": true
   },
@@ -3732,6 +3816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "rocky_rainforest": "2025-07-13 01:52:54 +0000"
@@ -3750,9 +3840,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 03:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
     },
     "done": true
   },
@@ -3846,6 +3948,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-07-13 01:37:16 +0000"
@@ -3873,6 +3987,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-13 03:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
     },
     "done": true
   },
@@ -3927,6 +4047,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-07-13 02:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
     },
     "done": true
   },
@@ -4002,6 +4128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 03:39:46 +0000"
@@ -4011,6 +4143,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-13 02:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
     },
     "done": true
   },
@@ -4056,9 +4194,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-07-13 02:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
     },
     "done": true
   },
@@ -4134,6 +4290,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:45:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-07-13 03:20:46 +0000"
@@ -4161,6 +4323,12 @@
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-07-13 02:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
     },
     "done": true
   },
@@ -4258,6 +4426,12 @@
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-07-13 02:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:36 +0000"
     },
     "done": true
   },

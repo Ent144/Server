@@ -121,3 +121,9 @@
 [13Jul2025 03:40:41.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Ice Bucket Challenge]
 [13Jul2025 03:44:58.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Who is Cutting Onions?]
 [13Jul2025 03:45:04.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Who is Cutting Onions?]
+[13Jul2025 03:47:51.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 burned to death
+[13Jul2025 03:47:51.437] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[13Jul2025 03:48:05.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Ice Bucket Challenge]
+[13Jul2025 03:51:00.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8832ms or 176 ticks behind
+[13Jul2025 03:51:40.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Disconnected
+[13Jul2025 03:51:40.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game

@@ -3502,6 +3502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-07-13 03:48:10 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-07-13 03:42:28 +0000"
@@ -3568,6 +3574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:57:12 +0000"
@@ -3577,6 +3589,12 @@
   "travelersbackpack:recipes/misc/gold": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
     },
     "done": true
   },
@@ -3670,6 +3688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-07-13 03:48:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_orange": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 02:32:42 +0000"
@@ -3724,6 +3748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 02:32:42 +0000"
@@ -3766,6 +3796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:57:12 +0000"
@@ -3781,6 +3817,12 @@
   "mcwbridges:recipes/dark_oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-13 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
     },
     "done": true
   },
@@ -3826,6 +3868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-13 03:44:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-07-13 02:32:42 +0000"
@@ -3835,6 +3883,24 @@
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-13 03:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
     },
     "done": true
   },
@@ -3919,6 +3985,12 @@
   "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-07-13 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
     },
     "done": true
   },
@@ -4072,6 +4144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 02:32:42 +0000"
@@ -4099,6 +4177,12 @@
   "mcwstairs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2025-07-13 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-13 03:45:04 +0000"
     },
     "done": true
   },
@@ -4162,6 +4246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:57:12 +0000"
@@ -4177,6 +4267,12 @@
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2025-07-13 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
     },
     "done": true
   },
@@ -4270,6 +4366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-13 03:28:27 +0000"
@@ -4315,6 +4417,18 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
     },
     "done": true
   },
@@ -4414,6 +4528,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-13 03:48:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-13 02:32:42 +0000"
@@ -4441,6 +4561,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-13 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:45:27 +0000"
     },
     "done": true
   },
@@ -4477,6 +4603,12 @@
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-07-13 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
     },
     "done": true
   },
@@ -4642,6 +4774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-13 03:45:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-13 03:04:18 +0000"
@@ -4777,6 +4915,12 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-07-13 03:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-13 03:48:05 +0000"
     },
     "done": true
   },
