@@ -4922,6 +4922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-14 09:44:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-07-14 07:08:06 +0000"
@@ -4933,6 +4939,12 @@
       "has_glass": "2025-07-14 07:03:59 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
@@ -5000,6 +5012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-14 09:44:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-14 07:08:06 +0000"
@@ -5030,9 +5048,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-14 09:44:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-07-14 07:39:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-07-14 09:44:27 +0000"
     },
     "done": true
   },
@@ -5041,6 +5071,12 @@
       "has_glass": "2025-07-14 07:03:59 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
   },
   "mcwstairs:recipes/blackstone": {
     "criteria": {
@@ -5102,6 +5138,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 09:44:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-14 08:55:10 +0000"
@@ -5138,11 +5186,29 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-14 09:44:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-07-14 07:39:17 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
@@ -5216,6 +5282,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-14 07:03:59 +0000"
@@ -5282,6 +5354,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-14 07:03:59 +0000"
@@ -5293,6 +5371,12 @@
       "has_glass": "2025-07-14 07:03:59 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
@@ -5336,6 +5420,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2025-07-14 07:36:32 +0000"
@@ -5369,6 +5459,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-14 07:08:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-07-14 09:44:27 +0000"
     },
     "done": true
   },
@@ -5576,6 +5672,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-14 07:03:59 +0000"
@@ -5696,6 +5798,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-07-14 09:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-14 09:44:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-14 07:03:59 +0000"
@@ -5729,6 +5843,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-07-14 08:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-14 09:44:27 +0000"
     },
     "done": true
   },
@@ -5822,6 +5942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-14 09:44:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-07-14 07:39:17 +0000"
@@ -5831,6 +5957,12 @@
   "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-14 07:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-14 09:44:27 +0000"
     },
     "done": true
   },
@@ -5857,6 +5989,12 @@
       "has_redstone": "2025-07-14 07:36:32 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
   },
   "mcwpaths:recipes/blackstone": {
     "criteria": {
@@ -5923,6 +6061,12 @@
       "has_glass": "2025-07-14 07:03:59 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-14 09:45:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
@@ -6017,6 +6161,12 @@
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-07-14 07:08:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-07-14 09:44:27 +0000"
     },
     "done": true
   },
@@ -6125,6 +6275,12 @@
   "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-07-14 08:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-14 09:44:29 +0000"
     },
     "done": true
   },

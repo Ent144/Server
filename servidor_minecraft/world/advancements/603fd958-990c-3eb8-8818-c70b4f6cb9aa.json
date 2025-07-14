@@ -6806,6 +6806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-14 09:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-07-14 09:38:02 +0000"
@@ -6935,6 +6941,12 @@
   "everycomp:recipes/decorations/mct/regions_unexplored/maple_tropical_trapdoor": {
     "criteria": {
       "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-14 09:43:53 +0000"
     },
     "done": true
   },
@@ -7079,6 +7091,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-14 08:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-14 09:43:53 +0000"
     },
     "done": true
   },
@@ -7262,6 +7280,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-14 09:52:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-14 07:08:09 +0000"
@@ -7394,6 +7418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-14 09:52:25 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-07-14 09:38:02 +0000"
@@ -7451,6 +7481,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_bookshelf_cupboard": {
     "criteria": {
       "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/dark_prismarine": {
+    "criteria": {
+      "has_wood": "2025-07-14 09:43:53 +0000"
     },
     "done": true
   },
@@ -7958,6 +7994,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-14 09:52:25 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcr/regions_unexplored/maple_planks_lower_roof": {
     "criteria": {
       "has_item": "2025-07-14 09:24:11 +0000"
@@ -7985,6 +8027,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_bookshelf_cupboard": {
     "criteria": {
       "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-14 09:43:53 +0000"
     },
     "done": true
   },
