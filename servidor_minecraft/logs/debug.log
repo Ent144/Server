@@ -5146,3 +5146,45 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 07:52:59.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Zombie
 [14Jul2025 07:52:59.385] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-587, y:-19, z:457, dim:minecraft:overworld]
 [14Jul2025 07:52:59.403] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[14Jul2025 07:53:29.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 07:53:29.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 07:54:21.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [You Monster...]
+[14Jul2025 07:57:07.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was slain by Warden
+[14Jul2025 07:57:07.479] [Server thread/DEBUG] [tombstone/]: A new grave of the player DuckHoward was created at position [x:-720, y:-50, z:244, dim:minecraft:overworld]
+[14Jul2025 07:57:07.491] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 07:57:07.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward moved wrongly!
+[14Jul2025 07:57:22.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [The Most Useful Key]
+[14Jul2025 07:57:30.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [A Fast Comeback]
+[14Jul2025 07:58:18.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was slain by Warden
+[14Jul2025 07:58:18.231] [Server thread/DEBUG] [tombstone/]: A new grave of the player DuckHoward was created at position [x:-814, y:-51, z:223, dim:minecraft:overworld]
+[14Jul2025 07:58:18.261] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 07:58:29.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 07:58:29.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 07:58:56.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [Discreet Search]
+[14Jul2025 07:59:03.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [Chain Death]
+[14Jul2025 07:59:03.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was slain by Warden
+[14Jul2025 07:59:03.232] [Server thread/DEBUG] [tombstone/]: A new grave of the player DuckHoward was created at position [x:-815, y:-51, z:223, dim:minecraft:overworld]
+[14Jul2025 07:59:03.242] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 08:03:29.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 08:03:29.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 08:04:15.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward fell from a high place
+[14Jul2025 08:04:15.132] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 08:04:35.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [It Spreads]
+[14Jul2025 08:08:29.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 08:08:29.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 08:09:32.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was slain by Warden
+[14Jul2025 08:09:32.492] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 08:12:23.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[14Jul2025 08:13:29.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 08:13:29.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 08:18:29.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 08:18:29.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 08:18:47.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Quite the Renovation]
+[14Jul2025 08:20:33.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was obliterated by a sonically-charged shriek
+[14Jul2025 08:20:33.891] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-615, y:-51, z:342, dim:minecraft:overworld]
+[14Jul2025 08:20:33.906] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[14Jul2025 08:23:29.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 08:23:29.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 08:28:27.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [Fortuitous Militia]
+[14Jul2025 08:28:29.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 08:28:29.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
