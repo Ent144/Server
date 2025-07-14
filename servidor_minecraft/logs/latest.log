@@ -279,3 +279,10 @@
 [14Jul2025 06:45:39.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> ZZZ
 [14Jul2025 06:45:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> ZZZ
 [14Jul2025 06:47:40.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Hunt and Gather]
+[14Jul2025 06:55:46.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [What a Deal!]
+[14Jul2025 07:01:09.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: You logged in from another location
+[14Jul2025 07:01:09.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[14Jul2025 07:01:10.084] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2025 07:01:10.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:46315] logged in with entity id 99994 at (-421.08547960347494, 70.0, 434.9020687229911)
+[14Jul2025 07:01:10.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
+[14Jul2025 07:01:10.207] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
