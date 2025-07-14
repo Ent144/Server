@@ -903,6 +903,7 @@
       "chalk_cliffs": "2025-07-12 22:51:23 +0000",
       "bamboo_forest": "2025-07-12 22:52:02 +0000",
       "temperate_grove": "2025-07-12 22:56:26 +0000",
+      "pine_slopes": "2025-07-14 10:18:29 +0000",
       "redwoods": "2025-07-12 22:51:32 +0000"
     },
     "done": false
@@ -920,6 +921,7 @@
       "chalk_cliffs": "2025-07-12 22:51:23 +0000",
       "bamboo_forest": "2025-07-12 22:52:02 +0000",
       "temperate_grove": "2025-07-12 22:56:26 +0000",
+      "pine_slopes": "2025-07-14 10:18:29 +0000",
       "redwoods": "2025-07-12 22:51:32 +0000"
     },
     "done": false
@@ -7342,6 +7344,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-07-14 10:16:26 +0000",
       "in_better_monster_room": "2025-07-14 08:18:47 +0000"
     },
     "done": false
@@ -7550,6 +7553,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-07-14 10:11:04 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_button": {
     "criteria": {
       "has_maple_planks": "2025-07-14 09:24:11 +0000"
@@ -7679,6 +7688,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_triple_drawer": {
     "criteria": {
       "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-07-14 10:16:26 +0000"
     },
     "done": true
   },
