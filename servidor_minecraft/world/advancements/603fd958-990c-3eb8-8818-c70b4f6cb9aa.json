@@ -6625,15 +6625,105 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_classic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-07-14 07:15:34 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mws/regions_unexplored/maple_loft_stairs": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_end_table": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/maple_terrace_stairs": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/maple_balcony": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_beach_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/soul_maple_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_barrel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_blossom_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-14 09:27:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-14 07:15:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_log_parapet": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_bark_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-07-14 09:20:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_end_table": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6649,9 +6739,171 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_double_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-14 09:26:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_planks_upper_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_modern_desk": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_highley_gate": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_lower_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_louvered_shutter": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_cottage_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/maple_bulk_stairs": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_double_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_double_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_glass_table": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_classic_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-14 09:26:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_modern_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_tropical_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-07-14 07:12:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_tropical_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_coffee_table": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "maple_log": "2025-07-14 09:20:22 +0000"
+    },
+    "done": false
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/maple_compact_stairs": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_attic_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_table": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6661,9 +6913,87 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_four_panel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_four_panel_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_upper_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/maple_log_bridge_stair": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-07-14 07:08:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-14 09:27:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_counter": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_bamboo_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_maple_pane_window": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_pane_window": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_stool_chair": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_stable_head_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6673,9 +7003,45 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_double_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-14 09:27:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_smithing": {
+    "criteria": {
+      "has_diamond": "2025-07-14 09:32:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-14 09:27:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-07-14 07:15:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_coffee_table": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6685,9 +7051,39 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_counter": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_plank_window2": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_paper_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-14 07:15:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_japanese_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/maple_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6697,9 +7093,45 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_upper_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_mystic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_barn_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-14 07:15:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_swamp_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_modern_desk": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6709,9 +7141,69 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_modern_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_plank_pane_window": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-14 07:08:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/maple_rope_bridge_stair": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_modern_chair": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/maple_log_bridge_middle": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_desk": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_planks_upper_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_pyramid_gate": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6721,9 +7213,39 @@
     },
     "done": false
   },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_double_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_barn_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2025-07-14 07:15:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_large_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_double_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-14 09:26:29 +0000"
     },
     "done": true
   },
@@ -6733,9 +7255,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-14 09:27:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone": {
     "criteria": {
       "has_stone": "2025-07-14 07:15:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_table": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_maple_log_window": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6751,15 +7291,51 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_ranch_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_wired_fence": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-07-14 07:10:27 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_bookshelf_cupboard": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/stone_grass_block": {
     "criteria": {
       "has_stone": "2025-07-14 07:15:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6775,6 +7351,48 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_maple_log_window2": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_planks_top_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/rope_maple_bridge": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_stockade_fence": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_cottage_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-07-14 07:15:34 +0000"
@@ -6787,9 +7405,153 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_mystic_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-07-14 07:15:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_planks_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-14 09:27:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/maple_railing": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_bamboo_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_western_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_picket_fence": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/maple_cabinet": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_shutter": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_swamp_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_paper_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-07-14 09:20:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/maple_ceiling_fan_light": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_barred_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_four_window": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_stable_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/stripped_maple_log_four_window": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_lower_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcp/regions_unexplored/maple_planks_path": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_steep_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6805,9 +7567,117 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_desk": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_covered_desk": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_barn_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/regions_unexplored/maple_skyline_stairs": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_planks_attic_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_plank_parapet": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_cupboard_counter": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/maple_rope_bridge_stair_recycle": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_blinds": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_chair": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_bark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_striped_chair": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/regions_unexplored/item_shelf_maple": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_covered_desk": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-14 07:08:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-14 09:27:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_waffle_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6817,9 +7687,93 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mws/regions_unexplored/maple_platform": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-07-14 09:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-14 09:30:14 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_large_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_window2": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/maple_rail_bridge": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_window": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_nether_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_planks_lower_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-07-14 07:15:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_chair": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-14 09:30:14 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_bookshelf_cupboard": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6829,9 +7783,57 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_plank_four_window": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_planks_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/maple_bridge_pier": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/regions_unexplored/maple_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_beach_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_striped_chair": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-07-14 08:04:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_wardrobe": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-14 09:26:29 +0000"
     },
     "done": true
   },
@@ -6841,15 +7843,57 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_horse_fence": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
       "has_planks": "2025-07-14 07:15:34 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcr/regions_unexplored/maple_top_roof": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_modern_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_stool_chair": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_modern_chair": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-14 07:15:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_glass_table": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
@@ -6862,6 +7906,30 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-07-14 07:41:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_cupboard_counter": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-07-14 09:30:14 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/regions_unexplored/maple_plank_window": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_japanese2_door": {
+    "criteria": {
+      "has_item": "2025-07-14 09:24:11 +0000"
     },
     "done": true
   },
