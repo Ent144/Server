@@ -389,3 +389,5 @@
 [14Jul2025 05:00:04.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=68, z=493} BlockPos{x=-464, y=68, z=494}
 [14Jul2025 05:00:04.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-465, y=68, z=493} BlockPos{x=-464, y=68, z=494}
 [14Jul2025 05:15:53.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-457, y=66, z=430} BlockPos{x=-459, y=65, z=431}
+[14Jul2025 05:38:44.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was slain by Zombie
+[14Jul2025 05:38:44.111] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
