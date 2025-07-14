@@ -448,3 +448,16 @@
 [14Jul2025 09:52:25.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Spooky Scary Skeleton]
 [14Jul2025 10:00:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [Serious Dedication]
 [14Jul2025 10:16:26.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [When in Rome]
+[14Jul2025 10:31:18.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
+[14Jul2025 10:31:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
+[14Jul2025 10:31:32.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Jul2025 10:31:32.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Jul2025 10:31:32.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Jul2025 10:31:32.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Jul2025 10:31:33.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Jul2025 10:31:33.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Jul2025 10:31:34.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Jul2025 10:31:34.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Jul2025 10:31:34.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Jul2025 10:31:34.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Jul2025 10:31:34.421] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
