@@ -4718,3 +4718,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 22:56:54.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> sisisi
 [14Jul2025 22:57:51.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> pense que seria arma pero es lit un hacha
 [14Jul2025 22:57:58.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> XDDDDD
+[14Jul2025 22:58:08.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> Oe pero la hacha es el que más vida quita creo
+[14Jul2025 22:58:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> pega 9 pero no en area como tal
+[14Jul2025 22:59:16.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 22:59:16.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 23:04:16.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 23:04:16.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
