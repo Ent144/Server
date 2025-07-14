@@ -266,3 +266,8 @@
 [14Jul2025 01:27:22.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
 [14Jul2025 01:27:22.414] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
 [14Jul2025 01:27:29.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6805ms or 136 ticks behind
+[14Jul2025 01:50:13.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-378, y=84, z=504} BlockPos{x=-380, y=82, z=504}
+[14Jul2025 01:50:13.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:34851] logged in with entity id 35762 at (-6.5, 117.0, 5.5)
+[14Jul2025 01:50:13.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[14Jul2025 01:50:13.581] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[14Jul2025 01:51:08.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Voluntary Exile]
