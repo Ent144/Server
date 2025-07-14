@@ -5139,3 +5139,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 07:38:29.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jul2025 07:39:17.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Diamonds!]
 [14Jul2025 07:42:05.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Ashes 'n Bones]
+[14Jul2025 07:43:29.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 07:43:29.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 07:48:29.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 07:48:29.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 07:52:59.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Zombie
+[14Jul2025 07:52:59.385] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-587, y:-19, z:457, dim:minecraft:overworld]
+[14Jul2025 07:52:59.403] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
