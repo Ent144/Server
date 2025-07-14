@@ -286,3 +286,5 @@
 [14Jul2025 07:01:10.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:46315] logged in with entity id 99994 at (-421.08547960347494, 70.0, 434.9020687229911)
 [14Jul2025 07:01:10.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
 [14Jul2025 07:01:10.207] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
+[14Jul2025 07:10:43.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was slain by Zombie
+[14Jul2025 07:10:43.864] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
