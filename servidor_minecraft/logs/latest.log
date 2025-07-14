@@ -328,3 +328,58 @@
 [14Jul2025 03:07:33.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Amateur Archaeologist]
 [14Jul2025 03:33:12.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Magic Writing]
 [14Jul2025 03:35:37.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [The Imperial March]
+[14Jul2025 03:39:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [Strong or Careful]
+[14Jul2025 03:39:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was slain by Wither Skeleton
+[14Jul2025 03:39:58.533] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 03:44:30.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Cover Me with Diamonds]
+[14Jul2025 03:44:31.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Ice Bucket Challenge]
+[14Jul2025 03:48:48.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was slain by Wither Skeleton
+[14Jul2025 03:48:48.499] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 03:48:53.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [Here They Come]
+[14Jul2025 03:57:54.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Cover Me with Diamonds]
+[14Jul2025 04:02:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Strong or Careful]
+[14Jul2025 04:02:00.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 was obliterated by a sonically-charged shriek
+[14Jul2025 04:02:00.302] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[14Jul2025 04:02:35.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Here They Come]
+[14Jul2025 04:02:59.353] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7772b812[id=<null>,name=PussyDestroyer,properties={},legacy=false] (/127.49.154.138:53215) lost connection: Disconnected
+[14Jul2025 04:03:06.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 was doomed to fall by Warden
+[14Jul2025 04:03:06.104] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[14Jul2025 04:03:10.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.49.154.138:42125] logged in with entity id 339349 at (23.65004462013439, 96.11071530842175, -12.219887029701482)
+[14Jul2025 04:03:10.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[14Jul2025 04:03:10.690] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[14Jul2025 04:03:22.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer was kicked for floating too long!
+[14Jul2025 04:03:22.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Flying is not enabled on this server
+[14Jul2025 04:03:22.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[14Jul2025 04:03:23.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> hi
+[14Jul2025 04:03:36.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.49.154.138:37723] logged in with entity id 340994 at (23.65004462013439, 96.11071530842175, -12.219887029701482)
+[14Jul2025 04:03:36.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[14Jul2025 04:03:36.796] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[14Jul2025 04:03:48.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer was kicked for floating too long!
+[14Jul2025 04:03:48.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Flying is not enabled on this server
+[14Jul2025 04:03:48.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[14Jul2025 04:04:27.307] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d6f6bed[id=<null>,name=PussyDestroyer,properties={},legacy=false] (/127.49.154.138:60607) lost connection: Disconnected
+[14Jul2025 04:04:38.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PussyDestroyer[/127.49.154.138:40529] logged in with entity id 345299 at (23.65004462013439, 81.21204265723165, -12.219887029701482)
+[14Jul2025 04:04:38.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer joined the game
+[14Jul2025 04:04:38.736] [Server thread/INFO] [Jade/]: Syncing config to PussyDestroyer (cdab7987-c381-3b83-a810-54af3c64c397)
+[14Jul2025 04:04:53.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PussyDestroyer> hola
+[14Jul2025 04:04:59.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> dc
+[14Jul2025 04:05:03.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> dc
+[14Jul2025 04:05:35.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[14Jul2025 04:10:14.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PussyDestroyer> por fin chup¿apingas
+[14Jul2025 04:10:18.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PussyDestroyer> por fiinnn
+[14Jul2025 04:10:41.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14Jul2025 04:10:42.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 fell from a high place
+[14Jul2025 04:10:42.281] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[14Jul2025 04:10:47.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PussyDestroyer> XDDDDD
+[14Jul2025 04:10:52.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> xddd
+[14Jul2025 04:11:29.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PussyDestroyer> duerman
+[14Jul2025 04:13:49.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Diamonds!]
+[14Jul2025 04:20:43.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Cover Me with Diamonds]
+[14Jul2025 04:21:00.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [The Imperial March]
+[14Jul2025 04:23:11.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [Diamonds!]
+[14Jul2025 04:23:54.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Spooky Scary Skeleton]
+[14Jul2025 04:24:53.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has completed the challenge [Serious Dedication]
+[14Jul2025 04:30:12.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer has made the advancement [The Imperial March]
+[14Jul2025 04:35:49.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Disconnected
+[14Jul2025 04:35:49.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
+[14Jul2025 04:37:12.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [Just a Flesh Wound]
