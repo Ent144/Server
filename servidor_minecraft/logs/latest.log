@@ -283,3 +283,11 @@
 [14Jul2025 02:10:49.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Ol' Betsy]
 [14Jul2025 02:10:49.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Take Aim]
 [14Jul2025 02:15:57.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Sweet Dreams]
+[14Jul2025 02:19:39.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Getting an Upgrade]
+[14Jul2025 02:25:58.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was doomed to fall by Skeleton
+[14Jul2025 02:25:58.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Your First Grave]
+[14Jul2025 02:25:58.019] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 02:26:36.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward was kicked for floating too long!
+[14Jul2025 02:26:36.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Disconnected
+[14Jul2025 02:26:36.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
+[14Jul2025 02:26:36.249] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
