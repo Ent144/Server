@@ -77,6 +77,7 @@
       "minecraft:stony_peaks": "2025-07-14 01:53:10 +0000",
       "minecraft:river": "2025-07-14 03:08:52 +0000",
       "minecraft:stony_shore": "2025-07-14 02:13:52 +0000",
+      "minecraft:forest": "2025-07-14 05:47:30 +0000",
       "minecraft:jungle": "2025-07-14 01:50:14 +0000",
       "minecraft:savanna": "2025-07-14 02:05:30 +0000",
       "minecraft:plains": "2025-07-14 02:07:55 +0000"
@@ -4933,6 +4934,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 02:38:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-07-14 05:53:59 +0000"
     },
     "done": true
   },

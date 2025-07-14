@@ -893,6 +893,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-07-12 23:02:05 +0000",
+      "willow_forest": "2025-07-14 05:47:36 +0000",
       "rocky_meadow": "2025-07-12 23:02:04 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
       "sparse_redwoods": "2025-07-13 04:04:48 +0000",
@@ -906,6 +907,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-07-12 23:02:05 +0000",
+      "willow_forest": "2025-07-14 05:47:36 +0000",
       "rocky_meadow": "2025-07-12 23:02:04 +0000",
       "magnolia_highlands": "2025-07-12 22:52:13 +0000",
       "sparse_redwoods": "2025-07-13 04:04:48 +0000",
@@ -4378,6 +4380,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-07-14 05:55:22 +0000",
       "wheat": "2025-07-13 02:26:16 +0000"
     },
     "done": false
@@ -5648,6 +5651,18 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-14 02:53:09 +0000"
@@ -5657,6 +5672,12 @@
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-07-14 04:19:41 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-07-14 05:56:09 +0000"
     },
     "done": true
   },
@@ -5798,9 +5819,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-07-14 04:02:00 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
     },
     "done": true
   },
@@ -5828,15 +5861,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-07-14 03:33:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
     },
     "done": true
   },
@@ -5864,9 +5915,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_door": {
     "criteria": {
       "has_netherite_scrap": "2025-07-14 04:19:41 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-07-14 05:56:09 +0000"
     },
     "done": true
   },
@@ -5906,6 +5975,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-14 02:56:27 +0000"
@@ -5924,6 +5999,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/warden": {
     "criteria": {
       "has_echo_shard": "2025-07-14 02:53:15 +0000"
@@ -5933,6 +6014,12 @@
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-07-14 04:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-14 05:55:36 +0000"
     },
     "done": true
   },
@@ -5990,6 +6077,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-07-14 05:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-07-14 01:38:29 +0000"
@@ -6002,15 +6101,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-07-14 02:56:27 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-07-14 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
     },
     "done": true
   },
@@ -6023,6 +6146,24 @@
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-07-14 04:30:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-14 05:55:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
     },
     "done": true
   },
@@ -6044,6 +6185,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-14 02:39:40 +0000"
@@ -6053,6 +6200,18 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-14 04:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-14 05:52:43 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
     },
     "done": true
   },
@@ -6092,6 +6251,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-07-14 05:52:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-14 02:56:26 +0000"
@@ -6101,6 +6272,12 @@
   "biomesoplenty:recipes/decorations/blackstone_spines": {
     "criteria": {
       "has_blackstone": "2025-07-14 02:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
     },
     "done": true
   },
@@ -6116,6 +6293,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-07-14 02:56:27 +0000"
@@ -6125,6 +6308,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
     },
     "done": true
   },
@@ -6149,6 +6338,12 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-07-14 02:53:15 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-14 05:56:09 +0000"
     },
     "done": true
   },

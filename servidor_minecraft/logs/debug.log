@@ -6604,3 +6604,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 05:45:40.477] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
 [14Jul2025 05:47:14.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jul2025 05:47:14.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 05:49:25.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [The Most Useful Key]
+[14Jul2025 05:49:52.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has reached the goal [A Fast Comeback]
+[14Jul2025 05:52:14.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 05:52:14.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 05:53:32.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 fell from a high place
+[14Jul2025 05:53:32.028] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristh715 was created at position [x:-539, y:27, z:74, dim:minecraft:overworld]
+[14Jul2025 05:53:32.037] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
+[14Jul2025 05:57:14.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 05:57:14.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 05:57:40.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Cobweb Entanglement]
