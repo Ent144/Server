@@ -4468,9 +4468,33 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-07-14 05:58:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-07-14 06:09:56 +0000"
     },
     "done": true
   },
@@ -4480,9 +4504,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 05:58:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/ru/biomesoplenty/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_item": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/soul_redwood_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-14 06:10:06 +0000"
     },
     "done": true
   },
@@ -4516,6 +4558,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-14 06:09:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/redwood_ceiling_fan_light": {
+    "criteria": {
+      "has_item": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 05:58:28 +0000"
@@ -4540,6 +4612,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/redwood_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 05:58:28 +0000"
@@ -4555,6 +4633,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 05:58:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_planks_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
     },
     "done": true
   },
@@ -4600,9 +4684,51 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_redwood": {
+    "criteria": {
+      "has_item": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-14 05:58:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
+    "criteria": {
+      "has_item": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-07-14 06:10:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
     },
     "done": true
   },
@@ -4612,9 +4738,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 05:58:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/redwood_cabinet": {
+    "criteria": {
+      "has_item": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_paths": {
+    "criteria": {
+      "has_wood": "2025-07-14 06:10:06 +0000"
     },
     "done": true
   },
