@@ -7370,6 +7370,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-07-14 10:00:41 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_double_drawer": {
     "criteria": {
       "has_item": "2025-07-14 09:24:11 +0000"
