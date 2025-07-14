@@ -74,15 +74,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-07-13 01:05:05 +0000",
+      "minecraft:savanna_plateau": "2025-07-14 06:34:25 +0000",
       "minecraft:beach": "2025-07-13 01:52:34 +0000",
       "minecraft:stony_peaks": "2025-07-13 01:39:37 +0000",
       "minecraft:river": "2025-07-13 01:04:31 +0000",
       "minecraft:lukewarm_ocean": "2025-07-13 01:52:43 +0000",
+      "minecraft:stony_shore": "2025-07-14 06:28:45 +0000",
       "minecraft:forest": "2025-07-13 01:39:47 +0000",
       "minecraft:lush_caves": "2025-07-13 00:52:21 +0000",
       "minecraft:jungle": "2025-07-13 00:19:20 +0000",
       "minecraft:ocean": "2025-07-13 01:54:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-13 02:03:41 +0000",
+      "minecraft:savanna": "2025-07-14 06:29:38 +0000",
       "minecraft:plains": "2025-07-14 06:05:13 +0000"
     },
     "done": false
@@ -1722,7 +1725,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-13 02:56:53 +0000",
-      "minecraft:skeleton": "2025-07-13 00:37:56 +0000"
+      "minecraft:skeleton": "2025-07-13 00:37:56 +0000",
+      "minecraft:zombie": "2025-07-14 06:21:01 +0000"
     },
     "done": false
   },
@@ -4468,15 +4472,33 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
+  "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
-      "has_planks": "2025-07-14 06:10:06 +0000"
+      "has_ender_pearl": "2025-07-14 05:49:18 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+  "tombstone:adventure/enchant_grave_key": {
     "criteria": {
-      "has_planks": "2025-07-14 06:10:06 +0000"
+      "has_upgraded_grave_key": "2025-07-14 05:49:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-14 05:49:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-14 05:57:40 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-14 05:57:40 +0000"
     },
     "done": true
   },
@@ -4486,15 +4508,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/redwood_sign": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_planks": "2025-07-14 06:10:06 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-07-14 06:09:56 +0000"
+      "has_flint": "2025-07-14 05:58:26 +0000"
     },
     "done": true
   },
@@ -4504,27 +4520,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-14 06:10:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 05:58:28 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/ru/biomesoplenty/redwood_branch_from_redwood_log": {
-    "criteria": {
-      "has_item": "2025-07-14 06:10:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcl/biomesoplenty/soul_redwood_tiki_torch": {
-    "criteria": {
-      "has_item": "2025-07-14 06:10:06 +0000"
     },
     "done": true
   },
@@ -4558,63 +4556,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-07-14 06:09:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/redwood_fence": {
-    "criteria": {
-      "has_planks": "2025-07-14 06:10:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-14 06:10:06 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-14 06:10:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcl/biomesoplenty/redwood_ceiling_fan_light": {
-    "criteria": {
-      "has_item": "2025-07-14 06:10:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 05:58:28 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-07-14 05:57:40 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-07-14 05:49:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-14 05:58:26 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcl/biomesoplenty/redwood_tiki_torch": {
-    "criteria": {
-      "has_item": "2025-07-14 06:10:06 +0000"
     },
     "done": true
   },
@@ -4636,21 +4580,9 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/redwood_planks_roofs": {
-    "criteria": {
-      "has_planks": "2025-07-14 06:10:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-14 05:58:28 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-07-14 05:49:52 +0000"
     },
     "done": true
   },
@@ -4684,6 +4616,102 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-14 05:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-14 05:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-14 06:09:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-07-14 06:09:56 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/ru/biomesoplenty/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_item": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/soul_redwood_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/redwood_ceiling_fan_light": {
+    "criteria": {
+      "has_item": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/redwood_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_planks_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:10:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2025-07-14 06:10:06 +0000"
@@ -4702,12 +4730,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-07-14 05:58:28 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
     "criteria": {
       "has_item": "2025-07-14 06:10:06 +0000"
@@ -4720,21 +4742,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-07-14 06:10:47 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_planks": "2025-07-14 06:10:06 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2025-07-14 05:49:18 +0000"
     },
     "done": true
   },
@@ -4750,12 +4760,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-07-14 05:58:28 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/fd/biomesoplenty/redwood_cabinet": {
     "criteria": {
       "has_item": "2025-07-14 06:10:06 +0000"
@@ -4768,9 +4772,147 @@
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-07-14 05:57:40 +0000"
+      "has_azure_bluet": "2025-07-14 06:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-14 06:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-14 06:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-14 06:23:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "forge:dyes/yellow": "2025-07-14 06:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-14 06:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-14 06:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-14 06:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-14 06:23:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-07-14 06:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-14 06:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-14 06:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-14 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-14 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-14 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-14 06:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-14 06:32:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-14 06:32:41 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-07-14 06:32:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-14 06:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-14 06:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-14 06:35:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 06:35:41 +0000"
     },
     "done": true
   },
