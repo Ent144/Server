@@ -288,3 +288,14 @@
 [14Jul2025 07:01:10.207] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
 [14Jul2025 07:10:43.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was slain by Zombie
 [14Jul2025 07:10:43.864] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 07:24:08.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Sneak 100]
+[14Jul2025 07:30:29.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was obliterated by a sonically-charged shriek
+[14Jul2025 07:30:29.649] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 07:34:07.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was shot by Skeleton
+[14Jul2025 07:34:07.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward moved wrongly!
+[14Jul2025 07:34:07.491] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 07:35:30.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [A Strange Grave Dust]
+[14Jul2025 07:37:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was shot by Skeleton
+[14Jul2025 07:37:43.895] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 07:39:17.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Diamonds!]
+[14Jul2025 07:42:05.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Ashes 'n Bones]

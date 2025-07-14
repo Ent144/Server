@@ -5117,3 +5117,25 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 07:13:29.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jul2025 07:18:29.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jul2025 07:18:29.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 07:23:30.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 07:23:30.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 07:24:08.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Sneak 100]
+[14Jul2025 07:28:29.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 07:28:29.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 07:30:29.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was obliterated by a sonically-charged shriek
+[14Jul2025 07:30:29.624] [Server thread/DEBUG] [tombstone/]: A new grave of the player DuckHoward was created at position [x:-735, y:-43, z:228, dim:minecraft:overworld]
+[14Jul2025 07:30:29.649] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 07:33:29.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 07:33:29.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 07:34:07.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was shot by Skeleton
+[14Jul2025 07:34:07.487] [Server thread/DEBUG] [tombstone/]: A new grave of the player DuckHoward was created at position [x:-850, y:-37, z:571, dim:minecraft:overworld]
+[14Jul2025 07:34:07.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward moved wrongly!
+[14Jul2025 07:34:07.491] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 07:35:30.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [A Strange Grave Dust]
+[14Jul2025 07:37:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was shot by Skeleton
+[14Jul2025 07:37:43.891] [Server thread/DEBUG] [tombstone/]: A new grave of the player DuckHoward was created at position [x:-836, y:-52, z:506, dim:minecraft:overworld]
+[14Jul2025 07:37:43.895] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 07:38:29.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 07:38:29.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 07:39:17.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Diamonds!]
+[14Jul2025 07:42:05.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Ashes 'n Bones]
