@@ -74,8 +74,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-07-14 02:07:17 +0000",
+      "minecraft:beach": "2025-07-14 09:10:30 +0000",
       "minecraft:stony_peaks": "2025-07-14 01:53:10 +0000",
       "minecraft:river": "2025-07-14 03:08:52 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-14 09:11:06 +0000",
       "minecraft:stony_shore": "2025-07-14 02:13:52 +0000",
       "minecraft:forest": "2025-07-14 05:47:30 +0000",
       "minecraft:jungle": "2025-07-14 01:50:14 +0000",
@@ -6184,9 +6186,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-07-14 09:12:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-14 09:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-14 09:11:58 +0000"
     },
     "done": true
   },
@@ -6265,8 +6279,12 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-07-14 09:03:51 +0000",
+      "grassy_beach": "2025-07-14 09:10:21 +0000",
+      "rocky_meadow": "2025-07-14 09:18:03 +0000",
       "ochard": "2025-07-14 09:03:55 +0000",
+      "deciduous_forest": "2025-07-14 09:18:43 +0000",
       "temperate_grove": "2025-07-14 09:05:37 +0000",
+      "grassland": "2025-07-14 09:10:18 +0000",
       "prairie": "2025-07-14 09:04:21 +0000"
     },
     "done": false
@@ -6274,6 +6292,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-14 09:06:43 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-07-14 09:19:05 +0000"
     },
     "done": true
   },
@@ -6316,8 +6340,12 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-07-14 09:03:51 +0000",
+      "grassy_beach": "2025-07-14 09:10:21 +0000",
+      "rocky_meadow": "2025-07-14 09:18:03 +0000",
       "ochard": "2025-07-14 09:03:55 +0000",
+      "deciduous_forest": "2025-07-14 09:18:43 +0000",
       "temperate_grove": "2025-07-14 09:05:37 +0000",
+      "grassland": "2025-07-14 09:10:18 +0000",
       "prairie": "2025-07-14 09:04:21 +0000"
     },
     "done": false
@@ -6331,6 +6359,12 @@
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-07-14 08:38:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 09:12:05 +0000"
     },
     "done": true
   },
@@ -6376,9 +6410,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 09:12:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-14 09:02:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-07-14 09:19:36 +0000"
     },
     "done": true
   },
@@ -6538,6 +6584,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-14 09:12:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-14 09:02:52 +0000"
@@ -6547,6 +6599,12 @@
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-14 09:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-14 09:11:58 +0000"
     },
     "done": true
   },
@@ -6718,6 +6776,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-14 09:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-14 07:58:13 +0000"
@@ -6793,6 +6857,12 @@
   "mcwbridges:recipes/mossy_stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-14 09:06:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-14 09:12:05 +0000"
     },
     "done": true
   },
