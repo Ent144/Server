@@ -291,3 +291,30 @@
 [14Jul2025 02:26:36.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Disconnected
 [14Jul2025 02:26:36.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
 [14Jul2025 02:26:36.249] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2025 02:26:52.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:47989] logged in with entity id 107106 at (-802.8613522008949, 48.72865625589957, 519.8647129009297)
+[14Jul2025 02:26:52.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[14Jul2025 02:26:52.489] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[14Jul2025 02:27:22.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward was kicked for floating too long!
+[14Jul2025 02:27:22.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Flying is not enabled on this server
+[14Jul2025 02:27:22.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
+[14Jul2025 02:27:57.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:54341] logged in with entity id 109453 at (-795.9450629905215, 24.829225297149595, 523.6999999880791)
+[14Jul2025 02:27:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[14Jul2025 02:27:57.092] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[14Jul2025 02:28:27.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Timed out
+[14Jul2025 02:28:27.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
+[14Jul2025 02:29:23.446] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a71e5e6[id=<null>,name=DuckHoward,properties={},legacy=false] (/127.197.7.209:42775) lost connection: Disconnected
+[14Jul2025 02:29:40.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:54303] logged in with entity id 113199 at (-795.9450629905215, 24.829225297149595, 523.6999999880791)
+[14Jul2025 02:29:40.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[14Jul2025 02:29:40.094] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[14Jul2025 02:30:10.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Timed out
+[14Jul2025 02:30:10.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
+[14Jul2025 02:34:16.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:58761] logged in with entity id 120845 at (-795.9450629905215, 24.829225297149595, 523.6999999880791)
+[14Jul2025 02:34:16.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[14Jul2025 02:34:16.997] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[14Jul2025 02:34:47.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Timed out
+[14Jul2025 02:34:47.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
+[14Jul2025 02:35:06.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:59375] logged in with entity id 122488 at (-795.9450629905215, 24.829225297149595, 523.6999999880791)
+[14Jul2025 02:35:06.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[14Jul2025 02:35:06.847] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[14Jul2025 02:35:37.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Suit Up]
+[14Jul2025 02:35:39.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Isn't It Iron Pick]
