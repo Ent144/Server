@@ -5188,3 +5188,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 08:28:27.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [Fortuitous Militia]
 [14Jul2025 08:28:29.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jul2025 08:28:29.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 08:33:29.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 08:33:29.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 08:34:39.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has made the advancement [Chest Slayer]
+[14Jul2025 08:36:28.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> e
+[14Jul2025 08:38:29.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 08:38:29.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 08:43:29.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 08:43:29.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -5717,6 +5717,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-07-14 08:39:19 +0000",
       "potato": "2025-07-14 05:20:52 +0000",
       "wheat": "2025-07-14 04:55:31 +0000"
     },
@@ -5970,6 +5971,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-14 08:43:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-07-14 07:17:06 +0000"
@@ -6021,6 +6028,12 @@
   "mcwbridges:recipes/deepslate_tile_bridge": {
     "criteria": {
       "has_planks": "2025-07-14 07:58:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-14 08:34:22 +0000"
     },
     "done": true
   },
@@ -6099,6 +6112,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-07-14 07:24:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-07-14 08:38:26 +0000"
     },
     "done": true
   },
