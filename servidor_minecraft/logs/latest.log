@@ -383,3 +383,8 @@
 [14Jul2025 04:35:49.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PussyDestroyer lost connection: Disconnected
 [14Jul2025 04:35:49.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PussyDestroyer left the game
 [14Jul2025 04:37:12.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has completed the challenge [Just a Flesh Wound]
+[14Jul2025 04:55:31.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [A Seedy Place]
+[14Jul2025 04:58:54.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-684, y=65, z=486} BlockPos{x=-685, y=63, z=486}
+[14Jul2025 05:00:04.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=68, z=493} BlockPos{x=-464, y=68, z=494}
+[14Jul2025 05:00:04.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=68, z=493} BlockPos{x=-464, y=68, z=494}
+[14Jul2025 05:00:04.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-465, y=68, z=493} BlockPos{x=-464, y=68, z=494}
