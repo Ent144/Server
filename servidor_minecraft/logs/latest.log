@@ -391,3 +391,8 @@
 [14Jul2025 05:15:53.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-457, y=66, z=430} BlockPos{x=-459, y=65, z=431}
 [14Jul2025 05:38:44.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward was slain by Zombie
 [14Jul2025 05:38:44.111] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
+[14Jul2025 05:41:30.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristh715[/127.193.50.182:36283] logged in with entity id 850056 at (1.4266419878267658, 142.0, -4.14490770387564)
+[14Jul2025 05:41:30.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 joined the game
+[14Jul2025 05:41:30.110] [Server thread/INFO] [Jade/]: Syncing config to Cristh715 (65fc72f0-a620-3eed-bb7d-2c1b8e2ec810)
+[14Jul2025 05:45:39.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 fell from a high place
+[14Jul2025 05:45:40.477] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
