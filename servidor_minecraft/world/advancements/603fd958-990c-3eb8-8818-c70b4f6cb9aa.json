@@ -5722,6 +5722,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-14 03:00:50 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/deepslate_tile_bridge": {
     "criteria": {
       "has_planks": "2025-07-14 02:53:09 +0000"
