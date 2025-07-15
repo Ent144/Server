@@ -6960,6 +6960,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-15 04:07:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-07-15 03:04:16 +0000"
