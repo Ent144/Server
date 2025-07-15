@@ -43,9 +43,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-15 02:49:15 +0000",
       "log_spam_fixer": "2025-07-14 01:50:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -80,6 +81,7 @@
       "minecraft:lukewarm_ocean": "2025-07-14 09:11:06 +0000",
       "minecraft:stony_shore": "2025-07-14 02:13:52 +0000",
       "minecraft:forest": "2025-07-14 05:47:30 +0000",
+      "minecraft:lush_caves": "2025-07-15 02:43:57 +0000",
       "minecraft:jungle": "2025-07-14 01:50:14 +0000",
       "minecraft:ocean": "2025-07-14 08:50:50 +0000",
       "minecraft:deep_dark": "2025-07-14 07:23:16 +0000",
@@ -6689,6 +6691,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-07-14 09:03:51 +0000",
+      "ancient_delta": "2025-07-15 02:43:52 +0000",
       "grassy_beach": "2025-07-14 09:10:21 +0000",
       "rocky_meadow": "2025-07-14 09:18:03 +0000",
       "ochard": "2025-07-14 09:03:55 +0000",
@@ -6893,6 +6896,48 @@
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2025-07-14 09:35:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-15 02:45:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2025-07-15 02:43:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-15 02:45:38 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-15 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-15 02:45:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-07-15 02:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-15 02:45:38 +0000"
     },
     "done": true
   },
