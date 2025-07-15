@@ -8259,9 +8259,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-15 01:56:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-07-15 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-15 01:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-15 01:56:55 +0000"
     },
     "done": true
   },
@@ -8274,6 +8292,12 @@
   "regions_unexplored:recipes/misc/oak_sapling_from_oak_shrub": {
     "criteria": {
       "has_oak_shrub": "2025-07-14 23:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-15 01:56:55 +0000"
     },
     "done": true
   },
@@ -8301,6 +8325,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-15 01:56:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-15 01:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-07-15 00:04:02 +0000"
@@ -8310,6 +8346,18 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-07-15 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
+    "criteria": {
+      "has_spruce_shrub": "2025-07-15 01:55:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-15 01:55:13 +0000"
     },
     "done": true
   },
