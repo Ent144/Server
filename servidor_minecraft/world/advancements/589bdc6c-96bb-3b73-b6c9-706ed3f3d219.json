@@ -77,6 +77,7 @@
       "minecraft:savanna_plateau": "2025-07-14 02:07:17 +0000",
       "minecraft:beach": "2025-07-14 09:10:30 +0000",
       "minecraft:stony_peaks": "2025-07-14 01:53:10 +0000",
+      "minecraft:sparse_jungle": "2025-07-15 05:28:53 +0000",
       "minecraft:river": "2025-07-14 03:08:52 +0000",
       "minecraft:lukewarm_ocean": "2025-07-14 09:11:06 +0000",
       "minecraft:stony_shore": "2025-07-14 02:13:52 +0000",
@@ -1339,6 +1340,7 @@
       "potato": "2025-07-15 03:24:59 +0000",
       "cooked_cod": "2025-07-14 03:01:50 +0000",
       "bread": "2025-07-14 02:16:04 +0000",
+      "golden_apple": "2025-07-15 05:44:16 +0000",
       "rotten_flesh": "2025-07-14 07:40:46 +0000",
       "melon_slice": "2025-07-14 01:54:35 +0000",
       "golden_carrot": "2025-07-14 04:43:57 +0000",
@@ -3134,9 +3136,11 @@
       "minecraft:spider": "2025-07-14 02:50:24 +0000",
       "minecraft:creeper": "2025-07-14 02:51:58 +0000",
       "minecraft:phantom": "2025-07-14 04:32:58 +0000",
+      "minecraft:witch": "2025-07-15 05:36:42 +0000",
       "minecraft:wither_skeleton": "2025-07-14 03:38:43 +0000",
       "minecraft:cave_spider": "2025-07-14 03:17:12 +0000",
       "minecraft:enderman": "2025-07-14 04:40:21 +0000",
+      "minecraft:silverfish": "2025-07-15 05:21:26 +0000",
       "minecraft:zombie": "2025-07-14 02:25:15 +0000",
       "minecraft:drowned": "2025-07-15 03:02:28 +0000",
       "minecraft:zombie_villager": "2025-07-14 07:09:13 +0000"
@@ -3265,7 +3269,9 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-07-14 02:09:34 +0000"
+      "tavern_dark_oak": "2025-07-15 05:14:24 +0000",
+      "illager_camp": "2025-07-14 02:09:34 +0000",
+      "mansion": "2025-07-15 05:13:05 +0000"
     },
     "done": false
   },
@@ -6701,6 +6707,7 @@
       "grassy_beach": "2025-07-14 09:10:21 +0000",
       "rocky_meadow": "2025-07-14 09:18:03 +0000",
       "ochard": "2025-07-14 09:03:55 +0000",
+      "magnolia_highlands": "2025-07-15 05:23:59 +0000",
       "sparse_redwoods": "2025-07-14 09:29:11 +0000",
       "mountains": "2025-07-15 03:18:55 +0000",
       "deciduous_forest": "2025-07-14 09:18:43 +0000",
@@ -6717,6 +6724,7 @@
       "grassy_beach": "2025-07-14 09:10:21 +0000",
       "rocky_meadow": "2025-07-14 09:18:03 +0000",
       "ochard": "2025-07-14 09:03:55 +0000",
+      "magnolia_highlands": "2025-07-15 05:23:59 +0000",
       "sparse_redwoods": "2025-07-14 09:29:11 +0000",
       "mountains": "2025-07-15 03:18:55 +0000",
       "deciduous_forest": "2025-07-14 09:18:43 +0000",
@@ -6907,6 +6915,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-07-15 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
@@ -6928,6 +6948,12 @@
   "regions_unexplored:recipes/building_blocks/prismaglass": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
     },
     "done": true
   },
@@ -6955,6 +6981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-07-15 03:59:04 +0000"
@@ -6964,6 +6996,18 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-15 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-07-15 05:40:48 +0000"
     },
     "done": true
   },
@@ -6979,9 +7023,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-07-15 05:13:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-15 05:36:45 +0000"
     },
     "done": true
   },
@@ -6994,6 +7062,12 @@
   "mcwstairs:recipes/blackstone": {
     "criteria": {
       "has_planks": "2025-07-15 03:59:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
     },
     "done": true
   },
@@ -7069,6 +7143,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-15 03:59:04 +0000"
@@ -7090,6 +7170,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-07-15 03:04:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:14:24 +0000"
     },
     "done": true
   },
@@ -7129,6 +7215,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
@@ -7165,9 +7257,21 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-07-15 05:14:24 +0000"
     },
     "done": true
   },
@@ -7183,6 +7287,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
@@ -7195,6 +7311,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
@@ -7204,6 +7326,18 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-07-15 05:42:46 +0000"
     },
     "done": true
   },
@@ -7225,6 +7359,24 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-07-15 05:07:23 +0000"
@@ -7234,6 +7386,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-15 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
     },
     "done": true
   },
@@ -7267,6 +7425,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-15 05:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-15 03:59:04 +0000"
@@ -7297,9 +7461,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-07-15 05:52:08 +0000"
     },
     "done": true
   },
@@ -7327,6 +7503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:10:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/statue": {
     "criteria": {
       "has_smooth_stone_slab": "2025-07-15 03:04:16 +0000"
@@ -7336,6 +7518,12 @@
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-15 06:01:49 +0000"
     },
     "done": true
   },
@@ -7351,6 +7539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-07-15 03:59:04 +0000"
@@ -7360,6 +7554,12 @@
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-07-15 05:01:37 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
     },
     "done": true
   },
@@ -7393,6 +7593,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackstone_lamp": {
     "criteria": {
       "has_blackstone": "2025-07-15 03:59:04 +0000"
@@ -7405,9 +7611,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-15 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-15 05:29:48 +0000"
     },
     "done": true
   },
@@ -7432,6 +7650,18 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
     },
     "done": true
   },
@@ -7483,9 +7713,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
     },
     "done": true
   },
@@ -7498,6 +7740,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-15 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-15 05:20:02 +0000"
     },
     "done": true
   },
@@ -7537,6 +7785,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-15 04:54:45 +0000"
@@ -7561,9 +7815,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-15 05:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-15 02:45:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_birch": {
+    "criteria": {
+      "has_item": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
     },
     "done": true
   },
@@ -7591,6 +7869,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-07-15 05:52:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
@@ -7609,9 +7893,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-07-15 05:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-15 03:59:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
     },
     "done": true
   },
@@ -7663,6 +7959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-15 03:59:04 +0000"
@@ -7699,15 +8001,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-15 04:39:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-15 05:20:02 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-07-15 04:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
     },
     "done": true
   },
@@ -7726,6 +8046,18 @@
   "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-15 04:19:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-15 05:29:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 05:14:24 +0000"
     },
     "done": true
   },

@@ -5376,3 +5376,136 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Jul2025 05:10:34.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jul2025 05:10:34.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jul2025 05:13:05.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Deep in the Dark Woodland]
+[15Jul2025 05:14:31.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 was killed by Area Effect Cloud using magic
+[15Jul2025 05:14:31.033] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ent144 was created at position [x:-461, y:141, z:-429, dim:minecraft:overworld]
+[15Jul2025 05:14:31.087] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved
+[15Jul2025 05:15:34.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:15:34.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:20:34.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:20:34.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:25:34.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:25:34.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:26:12.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Deep in the Dark Woodland]
+[15Jul2025 05:30:34.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:30:34.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:35:34.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:35:34.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:37:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Jennifer Dumped Me]
+[15Jul2025 05:39:44.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [You've Got a Friend in Me]
+[15Jul2025 05:40:32.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15Jul2025 05:40:37.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:40:37.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:40:45.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Super Creeps]
+[15Jul2025 05:40:48.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [Home Sweet Home]
+[15Jul2025 05:40:49.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[15Jul2025 05:41:10.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15Jul2025 05:41:23.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2383921, l='ServerLevel[world]', x=-951.91, y=77.01, z=-776.45] died: Dinnerbone was killed by magic whilst trying to escape Ent144
+[15Jul2025 05:41:28.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3113ms or 62 ticks behind
+[15Jul2025 05:41:32.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2383923, l='ServerLevel[world]', x=-951.10, y=77.01, z=-772.65] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:41:37.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2389705, l='ServerLevel[world]', x=-953.07, y=77.01, z=-777.70] died: Dinnerbone was killed by magic whilst trying to escape Ent144
+[15Jul2025 05:41:39.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2383922, l='ServerLevel[world]', x=-955.85, y=77.01, z=-777.70] died: 1$s has perished from holy damage
+[15Jul2025 05:41:47.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3868ms or 77 ticks behind
+[15Jul2025 05:42:06.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3681ms or 73 ticks behind
+[15Jul2025 05:42:25.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4232ms or 84 ticks behind
+[15Jul2025 05:42:44.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3923ms or 78 ticks behind
+[15Jul2025 05:42:46.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Super Creeps]
+[15Jul2025 05:42:59.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2383876, l='ServerLevel[world]', x=-939.96, y=77.01, z=-773.31] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:43:04.621] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2396177, l='ServerLevel[world]', x=-944.33, y=77.01, z=-775.98] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:45:58.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:45:58.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:46:26.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2414609, l='ServerLevel[world]', x=-941.25, y=85.01, z=-773.49] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:46:31.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2397251, l='ServerLevel[world]', x=-945.09, y=85.01, z=-768.66] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:46:54.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2383920, l='ServerLevel[world]', x=-945.33, y=85.01, z=-769.46] died: Dinnerbone was slain by Ent144
+[15Jul2025 05:49:55.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2397252, l='ServerLevel[world]', x=-946.66, y=85.01, z=-771.44] died: Dinnerbone was burnt to a crisp whilst fighting Ent144
+[15Jul2025 05:50:10.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has reached the goal [Waterworld]
+[15Jul2025 05:50:34.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[15Jul2025 05:50:54.074] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2393081, l='ServerLevel[world]', x=-952.61, y=93.01, z=-774.30] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:50:58.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:50:58.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:51:04.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2464501, l='ServerLevel[world]', x=-940.15, y=93.01, z=-770.78] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:51:15.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2419301, l='ServerLevel[world]', x=-930.39, y=93.01, z=-794.93] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:51:18.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2419300, l='ServerLevel[world]', x=-931.20, y=93.01, z=-797.56] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:51:39.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2398231, l='ServerLevel[world]', x=-944.18, y=93.01, z=-770.93] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:51:46.676] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2496017, l='ServerLevel[world]', x=-951.89, y=93.01, z=-771.84] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:51:50.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2455267, l='ServerLevel[world]', x=-956.51, y=93.01, z=-775.03] died: Dinnerbone was slain by DuckHoward
+[15Jul2025 05:51:56.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2488051, l='ServerLevel[world]', x=-951.06, y=93.01, z=-776.73] died: Dinnerbone was slain by DuckHoward
+[15Jul2025 05:51:56.473] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2484747, l='ServerLevel[world]', x=-950.70, y=93.01, z=-774.50] died: 1$s has perished from holy damage
+[15Jul2025 05:52:01.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2496018, l='ServerLevel[world]', x=-953.71, y=93.01, z=-777.70] died: 1$s has perished from holy damage
+[15Jul2025 05:52:08.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Not even afraid of death]
+[15Jul2025 05:52:08.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Back to childhood]
+[15Jul2025 05:52:26.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2398230, l='ServerLevel[world]', x=-939.20, y=93.01, z=-769.79] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:52:31.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Not even afraid of death]
+[15Jul2025 05:52:31.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Back to childhood]
+[15Jul2025 05:53:03.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2464502, l='ServerLevel[world]', x=-942.88, y=93.01, z=-771.28] died: 1$s has perished from holy damage
+[15Jul2025 05:53:18.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2419302, l='ServerLevel[world]', x=-931.11, y=93.01, z=-797.45] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:53:35.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2423561, l='ServerLevel[world]', x=-930.05, y=93.01, z=-800.33] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:53:38.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2423560, l='ServerLevel[world]', x=-928.82, y=93.01, z=-800.61] died: Dinnerbone was slain by DuckHoward
+[15Jul2025 05:53:43.665] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2423562, l='ServerLevel[world]', x=-930.58, y=93.01, z=-792.21] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:54:08.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2526868, l='ServerLevel[world]', x=-934.59, y=93.01, z=-801.64] died: Dinnerbone was slain by DuckHoward
+[15Jul2025 05:54:11.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2526869, l='ServerLevel[world]', x=-933.94, y=93.01, z=-801.70] died: Dinnerbone was slain by DuckHoward
+[15Jul2025 05:54:14.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2431692, l='ServerLevel[world]', x=-932.85, y=93.01, z=-785.07] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:54:34.320] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2403432, l='ServerLevel[world]', x=-931.05, y=101.01, z=-771.95] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:55:03.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Spectral Guardian]
+[15Jul2025 05:55:05.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2433516, l='ServerLevel[world]', x=-941.34, y=101.01, z=-793.08] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:55:13.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2536909, l='ServerLevel[world]', x=-940.75, y=101.01, z=-793.30] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:55:22.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2527681, l='ServerLevel[world]', x=-940.15, y=101.01, z=-799.63] died: 1$s has perished from holy damage
+[15Jul2025 05:55:23.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2504732, l='ServerLevel[world]', x=-938.65, y=101.01, z=-796.83] died: Dinnerbone was killed by magic whilst trying to escape Ent144
+[15Jul2025 05:55:30.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2543279, l='ServerLevel[world]', x=-938.30, y=101.01, z=-799.70] died: 1$s has perished from holy damage
+[15Jul2025 05:55:31.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2433515, l='ServerLevel[world]', x=-941.41, y=101.01, z=-799.70] died: 1$s has perished from holy damage
+[15Jul2025 05:55:58.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 05:55:58.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 05:56:06.071] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2501123, l='ServerLevel[world]', x=-958.18, y=101.01, z=-768.76] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:56:07.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2516336, l='ServerLevel[world]', x=-955.70, y=101.01, z=-769.75] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:56:10.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2513746, l='ServerLevel[world]', x=-956.83, y=101.01, z=-770.33] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:56:11.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2453674, l='ServerLevel[world]', x=-951.30, y=101.01, z=-776.07] died: 1$s has perished from holy damage
+[15Jul2025 05:56:24.167] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2453673, l='ServerLevel[world]', x=-956.02, y=101.01, z=-768.60] died: Dinnerbone was slain by DuckHoward
+[15Jul2025 05:56:27.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2495563, l='ServerLevel[world]', x=-956.92, y=101.01, z=-770.06] died: Dinnerbone was slain by DuckHoward
+[15Jul2025 05:57:28.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2495187, l='ServerLevel[world]', x=-956.63, y=109.01, z=-784.48] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:57:38.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2495188, l='ServerLevel[world]', x=-959.70, y=109.01, z=-777.30] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:57:39.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2564231, l='ServerLevel[world]', x=-956.32, y=109.01, z=-778.91] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:58:23.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2532974, l='ServerLevel[world]', x=-927.77, y=117.01, z=-773.43] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 05:59:07.018] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2495185, l='ServerLevel[world]', x=-949.30, y=109.01, z=-781.41] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:00:01.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2571605, l='ServerLevel[world]', x=-952.04, y=125.01, z=-792.65] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:00:18.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2566470, l='ServerLevel[world]', x=-960.70, y=125.01, z=-801.70] died: Dinnerbone was slain by Spider
+[15Jul2025 06:00:32.521] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2574082, l='ServerLevel[world]', x=-929.71, y=133.01, z=-771.30] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:00:33.885] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2566471, l='ServerLevel[world]', x=-953.67, y=125.01, z=-801.91] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:00:35.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2593298, l='ServerLevel[world]', x=-925.25, y=133.01, z=-770.53] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:00:36.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2574081, l='ServerLevel[world]', x=-924.39, y=133.01, z=-773.67] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:00:46.873] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2581711, l='ServerLevel[world]', x=-939.01, y=125.01, z=-789.66] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:00:52.132] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2574359, l='ServerLevel[world]', x=-937.12, y=125.01, z=-780.32] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:00:52.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2574360, l='ServerLevel[world]', x=-935.30, y=125.01, z=-779.91] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:00:52.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2581710, l='ServerLevel[world]', x=-937.42, y=125.01, z=-781.30] died: Dinnerbone was slain by DuckHoward
+[15Jul2025 06:00:53.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2591364, l='ServerLevel[world]', x=-936.42, y=125.01, z=-779.53] died: Dinnerbone was slain by DuckHoward
+[15Jul2025 06:00:58.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 06:00:58.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 06:01:06.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2574361, l='ServerLevel[world]', x=-940.43, y=125.01, z=-783.65] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:02:54.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2593297, l='ServerLevel[world]', x=-930.89, y=133.01, z=-772.47] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:03:14.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2618390, l='ServerLevel[world]', x=-940.20, y=133.01, z=-792.93] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:03:30.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2621137, l='ServerLevel[world]', x=-941.04, y=133.01, z=-799.09] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:03:35.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2599857, l='ServerLevel[world]', x=-938.33, y=133.01, z=-791.30] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:03:37.473] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2603441, l='ServerLevel[world]', x=-959.59, y=133.01, z=-767.75] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:03:48.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2617202, l='ServerLevel[world]', x=-955.03, y=133.01, z=-770.88] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:03:51.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2625351, l='ServerLevel[world]', x=-952.20, y=133.01, z=-771.31] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:03:53.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2599856, l='ServerLevel[world]', x=-939.02, y=133.01, z=-794.74] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:04:19.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2617203, l='ServerLevel[world]', x=-952.53, y=133.01, z=-772.33] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:04:39.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2617204, l='ServerLevel[world]', x=-958.63, y=133.01, z=-773.63] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:05:24.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2652906, l='ServerLevel[world]', x=-942.03, y=141.01, z=-799.50] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:05:34.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2658391, l='ServerLevel[world]', x=-954.88, y=141.01, z=-771.88] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:05:58.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 06:05:58.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 06:06:23.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2631797, l='ServerLevel[world]', x=-928.89, y=141.01, z=-780.30] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:06:33.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2615885, l='ServerLevel[world]', x=-942.61, y=141.01, z=-795.70] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:06:36.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2631799, l='ServerLevel[world]', x=-928.39, y=141.01, z=-780.71] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:06:59.274] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2639229, l='ServerLevel[world]', x=-928.37, y=149.01, z=-782.36] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:07:02.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved wrongly!
+[15Jul2025 06:07:11.274] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2639230, l='ServerLevel[world]', x=-934.11, y=149.01, z=-791.09] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:07:30.619] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2677975, l='ServerLevel[world]', x=-929.58, y=149.01, z=-786.25] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:09:07.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2668976, l='ServerLevel[world]', x=-952.67, y=157.01, z=-771.16] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:09:20.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2705660, l='ServerLevel[world]', x=-952.53, y=157.01, z=-770.42] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:10:15.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2702762, l='ServerLevel[world]', x=-938.36, y=157.01, z=-794.54] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:10:58.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 06:10:58.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 06:11:20.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2668975, l='ServerLevel[world]', x=-952.57, y=157.01, z=-770.69] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:11:51.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2684847, l='ServerLevel[world]', x=-940.11, y=165.01, z=-770.82] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:11:55.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2730187, l='ServerLevel[world]', x=-939.91, y=165.01, z=-769.25] died: Dinnerbone was shot by Dinnerbone
+[15Jul2025 06:11:58.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2714177, l='ServerLevel[world]', x=-940.20, y=165.01, z=-769.73] died: Dinnerbone was shot by Dinnerbone
