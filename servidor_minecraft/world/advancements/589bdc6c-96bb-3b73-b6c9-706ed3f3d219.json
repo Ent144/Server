@@ -9058,5 +9058,125 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/redwood_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_furnitures": {
+    "criteria": {
+      "has_wood": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
