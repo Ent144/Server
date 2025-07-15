@@ -8247,9 +8247,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-15 01:33:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-07-15 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-15 01:33:05 +0000"
     },
     "done": true
   },
@@ -8268,6 +8280,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-07-15 00:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-15 01:33:05 +0000"
     },
     "done": true
   },
@@ -8298,6 +8316,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-07-15 01:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-15 01:33:05 +0000"
     },
     "done": true
   },
