@@ -43,10 +43,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-07-15 02:49:15 +0000",
       "log_spam_fixer": "2025-07-14 01:50:14 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -6920,6 +6919,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-07-15 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-07-15 02:56:47 +0000"
     },
     "done": true
   },
