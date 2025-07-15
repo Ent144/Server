@@ -95,3 +95,6 @@
 [15Jul2025 02:43:00.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=45, z=1030} BlockPos{x=34, y=45, z=1031}
 [15Jul2025 02:45:13.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Chest Slayer]
 [15Jul2025 03:01:10.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=44, z=1031} BlockPos{x=42, y=44, z=1030}
+[15Jul2025 03:03:25.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [When in Rome]
+[15Jul2025 03:06:43.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward drowned
+[15Jul2025 03:06:43.881] [Server thread/INFO] [tombstone/]: The player DuckHoward has successfully been saved
