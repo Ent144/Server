@@ -7008,6 +7008,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-15 03:42:02 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-07-15 03:02:18 +0000"
