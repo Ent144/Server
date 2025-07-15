@@ -5044,3 +5044,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Jul2025 01:38:49.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> claro p
 [15Jul2025 01:39:16.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jul2025 01:39:16.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 01:42:16.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> Alamos loco
+[15Jul2025 01:42:21.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> dale loco
+[15Jul2025 01:42:28.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Disconnected
+[15Jul2025 01:42:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[15Jul2025 01:44:15.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 01:44:15.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 01:45:38.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/761154, l='ServerLevel[world]', x=-435.30, y=46.06, z=425.30] died, message: 'Librarian was slain by Ent144'
+[15Jul2025 01:45:38.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Neighborhood Brawl]
+[15Jul2025 01:49:15.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 01:49:15.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
