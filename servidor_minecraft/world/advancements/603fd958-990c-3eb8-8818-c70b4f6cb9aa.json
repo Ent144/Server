@@ -8385,6 +8385,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf_smithing": {
+    "criteria": {
+      "has_wolf": "2025-07-15 02:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-15 01:33:05 +0000"
