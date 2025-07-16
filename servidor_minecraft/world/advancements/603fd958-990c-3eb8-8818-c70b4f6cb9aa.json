@@ -9911,6 +9911,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-07-16 04:54:02 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/prevent_death_darkness": {
     "criteria": {
       "coded_trigger": "2025-07-16 03:39:32 +0000"
