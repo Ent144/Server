@@ -273,3 +273,21 @@
 [16Jul2025 02:52:36.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.39481969322969235
 [16Jul2025 03:15:45.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19021ms or 380 ticks behind
 [16Jul2025 03:28:19.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Funeral Theft]
+[16Jul2025 03:36:32.344] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Jul2025 03:36:32.345] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Jul2025 03:36:32.375] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Jul2025 03:36:32.376] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Jul2025 03:36:32.760] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Jul2025 03:36:32.761] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Jul2025 03:36:36.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7654ms or 153 ticks behind
+[16Jul2025 03:39:32.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [A second youth]
+[16Jul2025 03:39:43.741] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Jul2025 03:39:43.741] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Jul2025 03:39:43.769] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Jul2025 03:39:43.770] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Jul2025 03:54:00.615] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[16Jul2025 03:54:22.575] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[16Jul2025 03:55:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [A Bone to Pick]
+[16Jul2025 03:55:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Professional Dungeoneer]
+[16Jul2025 03:56:03.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Postmortal]
+[16Jul2025 03:56:03.621] [Server thread/INFO] [tombstone/]: The player Ent144 has successfully been saved

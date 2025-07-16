@@ -922,6 +922,7 @@
       "sparse_redwoods": "2025-07-13 04:04:48 +0000",
       "mountains": "2025-07-14 09:16:53 +0000",
       "deciduous_forest": "2025-07-15 04:51:23 +0000",
+      "boreal_forest": "2025-07-16 03:45:34 +0000",
       "chalk_cliffs": "2025-07-12 22:51:23 +0000",
       "bamboo_forest": "2025-07-12 22:52:02 +0000",
       "temperate_grove": "2025-07-12 22:56:26 +0000",
@@ -949,6 +950,7 @@
       "sparse_redwoods": "2025-07-13 04:04:48 +0000",
       "mountains": "2025-07-14 09:16:53 +0000",
       "deciduous_forest": "2025-07-15 04:51:23 +0000",
+      "boreal_forest": "2025-07-16 03:45:34 +0000",
       "chalk_cliffs": "2025-07-12 22:51:23 +0000",
       "bamboo_forest": "2025-07-12 22:52:02 +0000",
       "temperate_grove": "2025-07-12 22:56:26 +0000",
@@ -9892,6 +9894,12 @@
   "tombstone:adventure/use_cupidity": {
     "criteria": {
       "coded_trigger": "2025-07-16 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_darkness": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 03:39:32 +0000"
     },
     "done": true
   },
