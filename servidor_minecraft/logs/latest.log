@@ -1,513 +1,267 @@
-[16Jul2025 00:00:14.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9751ms or 195 ticks behind
-[16Jul2025 00:00:38.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8516ms or 170 ticks behind
-[16Jul2025 00:01:02.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8759ms or 175 ticks behind
-[16Jul2025 00:01:26.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9067ms or 181 ticks behind
-[16Jul2025 00:01:50.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9420ms or 188 ticks behind
-[16Jul2025 00:02:14.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8838ms or 176 ticks behind
-[16Jul2025 00:02:40.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10882ms or 217 ticks behind
-[16Jul2025 00:03:05.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10476ms or 209 ticks behind
-[16Jul2025 00:03:29.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8732ms or 174 ticks behind
-[16Jul2025 00:03:37.797] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
-[16Jul2025 00:03:54.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10286ms or 205 ticks behind
-[16Jul2025 00:04:03.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Guns and Roses]
-[16Jul2025 00:04:18.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9307ms or 186 ticks behind
-[16Jul2025 00:04:44.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10227ms or 204 ticks behind
-[16Jul2025 00:05:07.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8764ms or 175 ticks behind
-[16Jul2025 00:05:32.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9467ms or 189 ticks behind
-[16Jul2025 00:05:53.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Masquerade]
-[16Jul2025 00:05:57.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9820ms or 196 ticks behind
-[16Jul2025 00:06:22.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9944ms or 198 ticks behind
-[16Jul2025 00:06:46.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9868ms or 197 ticks behind
-[16Jul2025 00:06:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> gente, ustedes pueden comer? xd
-[16Jul2025 00:06:51.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> no me deja
-[16Jul2025 00:06:53.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> si
-[16Jul2025 00:07:08.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6963ms or 139 ticks behind
-[16Jul2025 00:07:09.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> quedate presionando el asterisco asi si comes
-[16Jul2025 00:07:11.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> okno
-[16Jul2025 00:07:19.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> xddddd
-[16Jul2025 00:07:21.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> sigue presionando hasta que se te llene la barra de comida
-[16Jul2025 00:07:24.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> a lo taichi dices
-[16Jul2025 00:07:26.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> hay un poco de lag
-[16Jul2025 00:07:30.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6357ms or 127 ticks behind
-[16Jul2025 00:07:30.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> loco encontre mas mascaras
-[16Jul2025 00:07:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> aahh es verdad
-[16Jul2025 00:07:44.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> chuggg
-[16Jul2025 00:07:53.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8215ms or 164 ticks behind
-[16Jul2025 00:08:16.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8437ms or 168 ticks behind
-[16Jul2025 00:08:40.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8641ms or 172 ticks behind
-[16Jul2025 00:08:42.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 moved too quickly! -2.2547378457047103,2.0,9.690833596582934
-[16Jul2025 00:09:04.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8740ms or 174 ticks behind
-[16Jul2025 00:09:26.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7713ms or 154 ticks behind
-[16Jul2025 00:09:49.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7957ms or 159 ticks behind
-[16Jul2025 00:10:12.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7692ms or 153 ticks behind
-[16Jul2025 00:10:35.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8416ms or 168 ticks behind
-[16Jul2025 00:10:58.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7693ms or 153 ticks behind
-[16Jul2025 00:11:20.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7490ms or 149 ticks behind
-[16Jul2025 00:11:43.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7522ms or 150 ticks behind
-[16Jul2025 00:12:06.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7653ms or 153 ticks behind
-[16Jul2025 00:12:27.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6910ms or 138 ticks behind
-[16Jul2025 00:12:50.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7473ms or 149 ticks behind
-[16Jul2025 00:13:12.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6873ms or 137 ticks behind
-[16Jul2025 00:13:34.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7387ms or 147 ticks behind
-[16Jul2025 00:13:57.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7763ms or 155 ticks behind
-[16Jul2025 00:14:20.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8421ms or 168 ticks behind
-[16Jul2025 00:14:44.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8970ms or 179 ticks behind
-[16Jul2025 00:15:08.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8942ms or 178 ticks behind
-[16Jul2025 00:15:31.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7676ms or 153 ticks behind
-[16Jul2025 00:15:53.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7433ms or 148 ticks behind
-[16Jul2025 00:16:16.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8089ms or 161 ticks behind
-[16Jul2025 00:16:39.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7594ms or 151 ticks behind
-[16Jul2025 00:17:01.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7406ms or 148 ticks behind
-[16Jul2025 00:17:24.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7949ms or 158 ticks behind
-[16Jul2025 00:17:48.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8770ms or 175 ticks behind
-[16Jul2025 00:18:11.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7791ms or 155 ticks behind
-[16Jul2025 00:18:32.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6801ms or 136 ticks behind
-[16Jul2025 00:18:54.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7078ms or 141 ticks behind
-[16Jul2025 00:19:17.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7630ms or 152 ticks behind
-[16Jul2025 00:19:39.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7257ms or 145 ticks behind
-[16Jul2025 00:20:01.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7138ms or 142 ticks behind
-[16Jul2025 00:20:24.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7748ms or 154 ticks behind
-[16Jul2025 00:20:40.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Disconnected
-[16Jul2025 00:20:40.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
-[16Jul2025 00:20:40.714] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[16Jul2025 00:20:45.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5996ms or 119 ticks behind
-[16Jul2025 00:20:59.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:43007] logged in with entity id 869879 at (-937.5085127272276, 157.26099211039994, -1980.169813854445)
-[16Jul2025 00:20:59.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
-[16Jul2025 00:20:59.778] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
-[16Jul2025 00:21:11.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[16Jul2025 00:21:31.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5138ms or 102 ticks behind
-[16Jul2025 00:21:44.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 lost connection: Timed out
-[16Jul2025 00:21:44.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 left the game
-[16Jul2025 00:21:51.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4588ms or 91 ticks behind
-[16Jul2025 00:21:53.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:40567] logged in with entity id 878848 at (-937.5085127272276, 155.0, -1980.169813854445)
-[16Jul2025 00:21:53.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
-[16Jul2025 00:21:53.501] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
-[16Jul2025 00:22:09.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3024ms or 60 ticks behind
-[16Jul2025 00:22:26.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
-[16Jul2025 00:22:47.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[16Jul2025 00:23:05.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3072ms or 61 ticks behind
-[16Jul2025 00:23:23.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3310ms or 66 ticks behind
-[16Jul2025 00:23:42.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3796ms or 75 ticks behind
-[16Jul2025 00:23:59.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
-[16Jul2025 00:24:18.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3351ms or 67 ticks behind
-[16Jul2025 00:24:36.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
-[16Jul2025 00:24:54.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3232ms or 64 ticks behind
-[16Jul2025 00:25:13.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4242ms or 84 ticks behind
-[16Jul2025 00:25:31.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3146ms or 62 ticks behind
-[16Jul2025 00:25:49.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
-[16Jul2025 00:26:07.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3271ms or 65 ticks behind
-[16Jul2025 00:26:26.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3584ms or 71 ticks behind
-[16Jul2025 00:26:44.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3127ms or 62 ticks behind
-[16Jul2025 00:27:01.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
-[16Jul2025 00:27:19.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
-[16Jul2025 00:27:38.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3571ms or 71 ticks behind
-[16Jul2025 00:27:56.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
-[16Jul2025 00:28:17.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5725ms or 114 ticks behind
-[16Jul2025 00:28:39.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6810ms or 136 ticks behind
-[16Jul2025 00:29:01.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6964ms or 139 ticks behind
-[16Jul2025 00:29:22.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6368ms or 127 ticks behind
-[16Jul2025 00:29:43.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5549ms or 110 ticks behind
-[16Jul2025 00:30:03.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5221ms or 104 ticks behind
-[16Jul2025 00:30:23.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4769ms or 95 ticks behind
-[16Jul2025 00:30:42.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4360ms or 87 ticks behind
-[16Jul2025 00:31:01.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4372ms or 87 ticks behind
-[16Jul2025 00:31:20.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3981ms or 79 ticks behind
-[16Jul2025 00:31:40.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4538ms or 90 ticks behind
-[16Jul2025 00:31:59.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4337ms or 86 ticks behind
-[16Jul2025 00:32:18.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3856ms or 77 ticks behind
-[16Jul2025 00:32:37.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3718ms or 74 ticks behind
-[16Jul2025 00:32:55.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3874ms or 77 ticks behind
-[16Jul2025 00:33:15.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4280ms or 85 ticks behind
-[16Jul2025 00:33:34.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4601ms or 92 ticks behind
-[16Jul2025 00:33:55.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5756ms or 115 ticks behind
-[16Jul2025 00:34:16.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5974ms or 119 ticks behind
-[16Jul2025 00:34:36.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4851ms or 97 ticks behind
-[16Jul2025 00:34:56.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5357ms or 107 ticks behind
-[16Jul2025 00:35:18.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6952ms or 139 ticks behind
-[16Jul2025 00:35:38.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5088ms or 101 ticks behind
-[16Jul2025 00:35:57.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4341ms or 86 ticks behind
-[16Jul2025 00:36:16.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4031ms or 80 ticks behind
-[16Jul2025 00:36:37.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5091ms or 101 ticks behind
-[16Jul2025 00:36:57.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5452ms or 109 ticks behind
-[16Jul2025 00:37:18.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5966ms or 119 ticks behind
-[16Jul2025 00:37:39.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6479ms or 129 ticks behind
-[16Jul2025 00:38:01.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6329ms or 126 ticks behind
-[16Jul2025 00:38:22.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6320ms or 126 ticks behind
-[16Jul2025 00:38:43.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6247ms or 124 ticks behind
-[16Jul2025 00:39:05.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6801ms or 136 ticks behind
-[16Jul2025 00:39:26.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6554ms or 131 ticks behind
-[16Jul2025 00:39:49.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7390ms or 147 ticks behind
-[16Jul2025 00:40:13.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9028ms or 180 ticks behind
-[16Jul2025 00:40:38.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9964ms or 199 ticks behind
-[16Jul2025 00:41:02.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9413ms or 188 ticks behind
-[16Jul2025 00:41:27.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9975ms or 199 ticks behind
-[16Jul2025 00:41:52.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10259ms or 205 ticks behind
-[16Jul2025 00:42:17.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10010ms or 200 ticks behind
-[16Jul2025 00:42:42.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9431ms or 188 ticks behind
-[16Jul2025 00:43:06.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9313ms or 186 ticks behind
-[16Jul2025 00:43:29.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8144ms or 162 ticks behind
-[16Jul2025 00:43:52.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8318ms or 166 ticks behind
-[16Jul2025 00:44:15.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7798ms or 155 ticks behind
-[16Jul2025 00:44:38.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7976ms or 159 ticks behind
-[16Jul2025 00:45:02.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8406ms or 168 ticks behind
-[16Jul2025 00:45:25.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8406ms or 168 ticks behind
-[16Jul2025 00:45:47.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7257ms or 145 ticks behind
-[16Jul2025 00:46:10.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7827ms or 156 ticks behind
-[16Jul2025 00:46:33.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8101ms or 162 ticks behind
-[16Jul2025 00:46:56.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7800ms or 156 ticks behind
-[16Jul2025 00:47:20.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8624ms or 172 ticks behind
-[16Jul2025 00:47:43.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8305ms or 166 ticks behind
-[16Jul2025 00:48:07.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9619ms or 192 ticks behind
-[16Jul2025 00:48:31.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8646ms or 172 ticks behind
-[16Jul2025 00:48:55.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8632ms or 172 ticks behind
-[16Jul2025 00:49:19.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9096ms or 181 ticks behind
-[16Jul2025 00:49:42.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7941ms or 158 ticks behind
-[16Jul2025 00:50:05.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8025ms or 160 ticks behind
-[16Jul2025 00:50:20.740] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[16Jul2025 00:50:20.756] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[16Jul2025 00:50:28.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8326ms or 166 ticks behind
-[16Jul2025 00:50:51.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8390ms or 167 ticks behind
-[16Jul2025 00:51:03.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-747, y=63, z=452} BlockPos{x=-748, y=63, z=452}
-[16Jul2025 00:51:13.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6365ms or 127 ticks behind
-[16Jul2025 00:51:32.546] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
-[16Jul2025 00:51:34.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6842ms or 136 ticks behind
-[16Jul2025 00:51:58.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8803ms or 176 ticks behind
-[16Jul2025 00:52:19.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6092ms or 121 ticks behind
-[16Jul2025 00:52:40.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5966ms or 119 ticks behind
-[16Jul2025 00:53:01.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5345ms or 106 ticks behind
-[16Jul2025 00:53:24.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8583ms or 171 ticks behind
-[16Jul2025 00:53:49.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10386ms or 207 ticks behind
-[16Jul2025 00:54:14.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9767ms or 195 ticks behind
-[16Jul2025 00:54:39.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10320ms or 206 ticks behind
-[16Jul2025 00:55:03.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8916ms or 178 ticks behind
-[16Jul2025 00:55:27.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8441ms or 168 ticks behind
-[16Jul2025 00:55:52.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10402ms or 208 ticks behind
-[16Jul2025 00:56:20.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12426ms or 248 ticks behind
-[16Jul2025 00:56:27.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-682, y=67, z=528} BlockPos{x=-682, y=66, z=528}
-[16Jul2025 00:56:30.928] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
-[16Jul2025 00:56:30.929] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
-[16Jul2025 00:56:45.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10705ms or 214 ticks behind
-[16Jul2025 00:57:09.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9235ms or 184 ticks behind
-[16Jul2025 00:57:31.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6454ms or 129 ticks behind
-[16Jul2025 00:57:52.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6415ms or 128 ticks behind
-[16Jul2025 00:58:13.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5863ms or 117 ticks behind
-[16Jul2025 00:58:34.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5911ms or 118 ticks behind
-[16Jul2025 00:58:55.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6131ms or 122 ticks behind
-[16Jul2025 00:59:19.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8785ms or 175 ticks behind
-[16Jul2025 00:59:43.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8921ms or 178 ticks behind
-[16Jul2025 01:00:05.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7539ms or 150 ticks behind
-[16Jul2025 01:00:30.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9878ms or 197 ticks behind
-[16Jul2025 01:00:54.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8905ms or 178 ticks behind
-[16Jul2025 01:01:20.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10562ms or 211 ticks behind
-[16Jul2025 01:01:46.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11426ms or 228 ticks behind
-[16Jul2025 01:02:09.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 has reached the goal [Bone Crusher]
-[16Jul2025 01:02:11.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9735ms or 194 ticks behind
-[16Jul2025 01:02:35.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9224ms or 184 ticks behind
-[16Jul2025 01:02:56.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5670ms or 113 ticks behind
-[16Jul2025 01:03:17.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6670ms or 133 ticks behind
-[16Jul2025 01:03:38.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5345ms or 106 ticks behind
-[16Jul2025 01:03:57.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4183ms or 83 ticks behind
-[16Jul2025 01:04:02.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 was slain by Zombie
-[16Jul2025 01:04:02.561] [Server thread/INFO] [tombstone/]: The player Cristh715 has successfully been saved
-[16Jul2025 01:04:07.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ent144> XDDDDDDDDDDDDDDDDDD
-[16Jul2025 01:04:13.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> eso te pasa por irte afk
-[16Jul2025 01:04:16.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4057ms or 81 ticks behind
-[16Jul2025 01:04:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> quieres una ender pearl?
-[16Jul2025 01:04:35.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4349ms or 86 ticks behind
-[16Jul2025 01:04:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> felizmente tengo una xd
-[16Jul2025 01:04:55.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4798ms or 95 ticks behind
-[16Jul2025 01:05:15.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4994ms or 99 ticks behind
-[16Jul2025 01:05:37.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7410ms or 148 ticks behind
-[16Jul2025 01:06:00.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8315ms or 166 ticks behind
-[16Jul2025 01:06:18.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3083ms or 61 ticks behind
-[16Jul2025 01:06:35.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> oye cristhian
-[16Jul2025 01:06:38.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4495ms or 89 ticks behind
-[16Jul2025 01:06:42.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DuckHoward> has visto mi granja de mobs?
-[16Jul2025 01:06:49.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cristh715> aun no xdd
-[16Jul2025 01:07:02.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8755ms or 175 ticks behind
-[16Jul2025 01:07:23.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6183ms or 123 ticks behind
-[16Jul2025 01:07:45.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7331ms or 146 ticks behind
-[16Jul2025 01:08:06.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5749ms or 114 ticks behind
-[16Jul2025 01:08:27.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6305ms or 126 ticks behind
-[16Jul2025 01:08:49.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6908ms or 138 ticks behind
-[16Jul2025 01:09:10.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6515ms or 130 ticks behind
-[16Jul2025 01:09:32.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6413ms or 128 ticks behind
-[16Jul2025 01:09:53.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6120ms or 122 ticks behind
-[16Jul2025 01:10:18.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [You Are A Pirate]
-[16Jul2025 01:10:19.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11241ms or 224 ticks behind
-[16Jul2025 01:10:46.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11818ms or 236 ticks behind
-[16Jul2025 01:11:11.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10168ms or 203 ticks behind
-[16Jul2025 01:11:35.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9338ms or 186 ticks behind
-[16Jul2025 01:12:01.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10122ms or 202 ticks behind
-[16Jul2025 01:12:25.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9034ms or 180 ticks behind
-[16Jul2025 01:12:49.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9596ms or 191 ticks behind
-[16Jul2025 01:13:14.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9936ms or 198 ticks behind
-[16Jul2025 01:13:39.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10064ms or 201 ticks behind
-[16Jul2025 01:14:07.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13369ms or 267 ticks behind
-[16Jul2025 01:14:34.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11295ms or 225 ticks behind
-[16Jul2025 01:15:00.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11054ms or 221 ticks behind
-[16Jul2025 01:15:25.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10297ms or 205 ticks behind
-[16Jul2025 01:15:50.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9986ms or 199 ticks behind
-[16Jul2025 01:16:14.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9230ms or 184 ticks behind
-[16Jul2025 01:16:36.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7145ms or 142 ticks behind
-[16Jul2025 01:16:58.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6636ms or 132 ticks behind
-[16Jul2025 01:17:19.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6514ms or 130 ticks behind
-[16Jul2025 01:17:42.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7462ms or 149 ticks behind
-[16Jul2025 01:18:02.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5584ms or 111 ticks behind
-[16Jul2025 01:18:23.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6045ms or 120 ticks behind
-[16Jul2025 01:18:46.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7301ms or 146 ticks behind
-[16Jul2025 01:19:09.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8086ms or 161 ticks behind
-[16Jul2025 01:19:32.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8253ms or 165 ticks behind
-[16Jul2025 01:19:55.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8454ms or 169 ticks behind
-[16Jul2025 01:20:13.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
-[16Jul2025 01:20:36.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[16Jul2025 01:20:53.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
-[16Jul2025 01:21:11.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3094ms or 61 ticks behind
-[16Jul2025 01:21:31.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4533ms or 90 ticks behind
-[16Jul2025 01:21:50.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4467ms or 89 ticks behind
-[16Jul2025 01:22:10.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5231ms or 104 ticks behind
-[16Jul2025 01:22:31.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5796ms or 115 ticks behind
-[16Jul2025 01:22:53.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6840ms or 136 ticks behind
-[16Jul2025 01:23:16.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7974ms or 159 ticks behind
-[16Jul2025 01:23:38.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7130ms or 142 ticks behind
-[16Jul2025 01:23:57.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4350ms or 87 ticks behind
-[16Jul2025 01:24:16.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3662ms or 73 ticks behind
-[16Jul2025 01:24:36.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4618ms or 92 ticks behind
-[16Jul2025 01:24:57.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6782ms or 135 ticks behind
-[16Jul2025 01:25:20.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7842ms or 156 ticks behind
-[16Jul2025 01:25:42.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7235ms or 144 ticks behind
-[16Jul2025 01:26:05.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7656ms or 153 ticks behind
-[16Jul2025 01:26:28.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8231ms or 164 ticks behind
-[16Jul2025 01:26:53.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9971ms or 199 ticks behind
-[16Jul2025 01:27:17.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8756ms or 175 ticks behind
-[16Jul2025 01:27:41.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9136ms or 182 ticks behind
-[16Jul2025 01:28:05.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8474ms or 169 ticks behind
-[16Jul2025 01:28:28.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8876ms or 177 ticks behind
-[16Jul2025 01:28:53.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9318ms or 186 ticks behind
-[16Jul2025 01:29:22.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13981ms or 279 ticks behind
-[16Jul2025 01:29:48.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11021ms or 220 ticks behind
-[16Jul2025 01:30:14.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11690ms or 233 ticks behind
-[16Jul2025 01:30:39.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10147ms or 202 ticks behind
-[16Jul2025 01:31:04.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9803ms or 196 ticks behind
-[16Jul2025 01:31:29.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9936ms or 198 ticks behind
-[16Jul2025 01:31:54.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9631ms or 192 ticks behind
-[16Jul2025 01:32:18.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9440ms or 188 ticks behind
-[16Jul2025 01:32:43.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9922ms or 198 ticks behind
-[16Jul2025 01:33:09.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11075ms or 221 ticks behind
-[16Jul2025 01:33:34.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10248ms or 204 ticks behind
-[16Jul2025 01:33:59.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10093ms or 201 ticks behind
-[16Jul2025 01:34:23.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8959ms or 179 ticks behind
-[16Jul2025 01:34:47.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8930ms or 178 ticks behind
-[16Jul2025 01:35:13.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11141ms or 222 ticks behind
-[16Jul2025 01:35:37.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9097ms or 181 ticks behind
-[16Jul2025 01:36:02.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9623ms or 192 ticks behind
-[16Jul2025 01:36:26.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8703ms or 174 ticks behind
-[16Jul2025 01:36:49.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8890ms or 177 ticks behind
-[16Jul2025 01:37:13.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8153ms or 163 ticks behind
-[16Jul2025 01:37:36.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8387ms or 167 ticks behind
-[16Jul2025 01:37:59.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7839ms or 156 ticks behind
-[16Jul2025 01:38:22.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8781ms or 175 ticks behind
-[16Jul2025 01:38:46.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8615ms or 172 ticks behind
-[16Jul2025 01:39:10.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8946ms or 178 ticks behind
-[16Jul2025 01:39:33.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8334ms or 166 ticks behind
-[16Jul2025 01:39:57.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8245ms or 164 ticks behind
-[16Jul2025 01:40:13.884] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[16Jul2025 01:40:14.317] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[16Jul2025 01:40:14.377] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[16Jul2025 01:40:14.477] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[16Jul2025 01:40:21.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9808ms or 196 ticks behind
-[16Jul2025 01:40:43.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7153ms or 143 ticks behind
-[16Jul2025 01:41:06.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7909ms or 158 ticks behind
-[16Jul2025 01:41:30.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8717ms or 174 ticks behind
-[16Jul2025 01:41:54.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9309ms or 186 ticks behind
-[16Jul2025 01:42:20.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10752ms or 215 ticks behind
-[16Jul2025 01:42:45.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10424ms or 208 ticks behind
-[16Jul2025 01:43:13.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12651ms or 253 ticks behind
-[16Jul2025 01:43:40.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11896ms or 237 ticks behind
-[16Jul2025 01:44:08.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13441ms or 268 ticks behind
-[16Jul2025 01:44:35.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11564ms or 231 ticks behind
-[16Jul2025 01:45:02.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12064ms or 241 ticks behind
-[16Jul2025 01:45:29.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12529ms or 250 ticks behind
-[16Jul2025 01:45:56.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11051ms or 221 ticks behind
-[16Jul2025 01:46:22.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11304ms or 226 ticks behind
-[16Jul2025 01:46:32.973] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
-[16Jul2025 01:46:49.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12280ms or 245 ticks behind
-[16Jul2025 01:47:16.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12017ms or 240 ticks behind
-[16Jul2025 01:47:42.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10539ms or 210 ticks behind
-[16Jul2025 01:48:06.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9038ms or 180 ticks behind
-[16Jul2025 01:48:29.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8522ms or 170 ticks behind
-[16Jul2025 01:48:52.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8174ms or 163 ticks behind
-[16Jul2025 01:49:15.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8119ms or 162 ticks behind
-[16Jul2025 01:49:36.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5926ms or 118 ticks behind
-[16Jul2025 01:49:59.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! 0.8915070457701404,3.7859656046435077,-9.520317528734267
-[16Jul2025 01:50:01.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9870ms or 197 ticks behind
-[16Jul2025 01:50:26.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9597ms or 191 ticks behind
-[16Jul2025 01:50:49.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8503ms or 170 ticks behind
-[16Jul2025 01:51:15.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10755ms or 215 ticks behind
-[16Jul2025 01:51:42.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12095ms or 241 ticks behind
-[16Jul2025 01:52:08.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11201ms or 224 ticks behind
-[16Jul2025 01:52:31.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8351ms or 167 ticks behind
-[16Jul2025 01:52:56.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9207ms or 184 ticks behind
-[16Jul2025 01:53:19.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8654ms or 173 ticks behind
-[16Jul2025 01:53:44.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9225ms or 184 ticks behind
-[16Jul2025 01:53:45.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [Jaws]
-[16Jul2025 01:54:07.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8458ms or 169 ticks behind
-[16Jul2025 01:54:30.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7886ms or 157 ticks behind
-[16Jul2025 01:54:51.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6564ms or 131 ticks behind
-[16Jul2025 01:55:13.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6163ms or 123 ticks behind
-[16Jul2025 01:55:34.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6740ms or 134 ticks behind
-[16Jul2025 01:55:56.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6631ms or 132 ticks behind
-[16Jul2025 01:56:18.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7623ms or 152 ticks behind
-[16Jul2025 01:56:44.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10347ms or 206 ticks behind
-[16Jul2025 01:57:10.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11034ms or 220 ticks behind
-[16Jul2025 01:57:34.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9388ms or 187 ticks behind
-[16Jul2025 01:57:59.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10263ms or 205 ticks behind
-[16Jul2025 01:58:23.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8785ms or 175 ticks behind
-[16Jul2025 01:58:47.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9282ms or 185 ticks behind
-[16Jul2025 01:59:12.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9842ms or 196 ticks behind
-[16Jul2025 01:59:38.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10883ms or 217 ticks behind
-[16Jul2025 02:00:04.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10556ms or 211 ticks behind
-[16Jul2025 02:00:29.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10444ms or 208 ticks behind
-[16Jul2025 02:00:53.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8850ms or 177 ticks behind
-[16Jul2025 02:01:18.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10672ms or 213 ticks behind
-[16Jul2025 02:01:45.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11872ms or 237 ticks behind
-[16Jul2025 02:02:11.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11213ms or 224 ticks behind
-[16Jul2025 02:02:19.732] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
-[16Jul2025 02:02:19.732] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
-[16Jul2025 02:02:38.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11271ms or 225 ticks behind
-[16Jul2025 02:03:04.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11273ms or 225 ticks behind
-[16Jul2025 02:03:30.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11172ms or 223 ticks behind
-[16Jul2025 02:03:56.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11074ms or 221 ticks behind
-[16Jul2025 02:04:22.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10834ms or 216 ticks behind
-[16Jul2025 02:04:49.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11784ms or 235 ticks behind
-[16Jul2025 02:05:12.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8440ms or 168 ticks behind
-[16Jul2025 02:05:39.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11398ms or 227 ticks behind
-[16Jul2025 02:06:04.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10753ms or 215 ticks behind
-[16Jul2025 02:06:30.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10683ms or 213 ticks behind
-[16Jul2025 02:06:56.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11269ms or 225 ticks behind
-[16Jul2025 02:07:11.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Disconnected
-[16Jul2025 02:07:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
-[16Jul2025 02:07:18.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6968ms or 139 ticks behind
-[16Jul2025 02:07:58.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[16Jul2025 02:08:15.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
-[16Jul2025 02:08:43.089] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-413}
-[16Jul2025 02:08:43.089] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-415}
-[16Jul2025 02:08:43.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Smoke On The Water]
-[16Jul2025 02:08:45.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[16Jul2025 02:08:58.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.26394337345448093
-[16Jul2025 02:08:58.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.4805637924646362
-[16Jul2025 02:08:58.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.317829587862434
-[16Jul2025 02:08:58.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.4805637924646362
-[16Jul2025 02:08:58.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.3125348964017576
-[16Jul2025 02:08:58.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.25407916979747824
-[16Jul2025 02:09:03.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! -0.45154090600362906,-2.1060842324890743,-9.984195989552063
-[16Jul2025 02:09:03.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -9.44942408400459,0.0,4.1603466439064505
-[16Jul2025 02:09:03.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -9.807060299021373,0.0,4.32008700866254
-[16Jul2025 02:09:03.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -10.164673915179606,0.0,4.481813803304249
-[16Jul2025 02:09:03.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -10.522220581533588,0.0,4.645420844638011
-[16Jul2025 02:09:03.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -10.879663623235615,0.0,4.810805608950432
-[16Jul2025 02:09:03.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -11.23697680922669,0.0,4.977862065542013
-[16Jul2025 02:09:03.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -11.594138140879863,0.0,5.146491301775768
-[16Jul2025 02:09:03.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -11.95113120944552,0.0,5.316597411945622
-[16Jul2025 02:09:03.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -12.307944663140688,0.0,5.488087217070188
-[16Jul2025 02:09:03.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -12.664571746155502,0.0,5.660870007122412
-[16Jul2025 02:09:03.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -13.021008080718957,0.0,5.834860708362612
-[16Jul2025 02:09:03.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -13.37725322488484,0.0,6.009975929694974
-[16Jul2025 02:09:03.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -13.733306743648768,0.0,6.186140596783844
-[16Jul2025 02:09:03.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -14.08917176963132,0.0,6.363280331035185
-[16Jul2025 02:09:03.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -14.444851099839184,0.0,6.541328178678214
-[16Jul2025 02:09:03.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -14.800350798054865,0.0,6.7202170826653855
-[16Jul2025 02:09:03.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.15567630678106,0.0,6.899886682343094
-[16Jul2025 02:09:03.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.510834297508381,0.0,7.080279255658752
-[16Jul2025 02:09:03.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.8658307634023,0.0,7.261342845316449
-[16Jul2025 02:09:03.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -16.220672886450984,0.0,7.443027296011678
-[16Jul2025 02:09:03.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -16.575368914857677,0.0,7.6252840742322405
-[16Jul2025 02:09:03.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -16.9299262682797,0.0,7.808069497954875
-[16Jul2025 02:09:03.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.28435162068331,0.0,7.991344249635404
-[16Jul2025 02:09:03.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.63865277050263,0.0,8.175069555332811
-[16Jul2025 02:09:03.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.99283673632806,0.0,8.359210518501186
-[16Jul2025 02:09:03.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -18.34690983116559,0.0,8.543735728525007
-[16Jul2025 02:09:03.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -18.700879539760876,0.0,8.728613529562153
-[16Jul2025 02:09:03.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.0547525909343,0.0,8.913815433217678
-[16Jul2025 02:09:03.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.408535044349378,0.0,9.099315798074713
-[16Jul2025 02:09:03.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.762232349977808,0.0,9.285091544995794
-[16Jul2025 02:09:03.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.115849412793978,0.0,9.471121902758114
-[16Jul2025 02:09:03.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.46939245404053,0.0,9.657384792834364
-[16Jul2025 02:09:03.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.82286706911043,0.0,9.843860344552013
-[16Jul2025 02:09:03.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.176278290131904,0.0,10.030530676167473
-[16Jul2025 02:09:03.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.52963065347069,0.0,10.217379692250233
-[16Jul2025 02:09:03.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.882928238130717,0.0,10.404392906912562
-[16Jul2025 02:09:03.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -22.236174715215384,0.0,10.591557282856229
-[16Jul2025 02:09:03.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -22.589373388717718,0.0,10.778861086513189
-[16Jul2025 02:09:03.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -22.942527228505924,0.0,10.966293755810057
-[16Jul2025 02:09:03.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.29564071795255,0.0,11.153842404179613
-[16Jul2025 02:09:03.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.648716085326782,0.0,11.341498816274907
-[16Jul2025 02:09:03.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -14.909939050712524,0.0,7.526549282238648
-[16Jul2025 02:09:03.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.262947418854651,0.0,7.714393350999671
-[16Jul2025 02:09:03.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.615926366566327,0.0,7.902319022141455
-[16Jul2025 02:09:03.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.96887883589136,0.0,8.09031813542424
-[16Jul2025 02:09:03.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -16.321805667903163,0.0,8.278386729195518
-[16Jul2025 02:09:03.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -16.67470942633372,0.0,8.466517855405073
-[16Jul2025 02:09:03.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.027592418541758,0.0,8.654705260807077
-[16Jul2025 02:09:03.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.38045491065884,0.0,8.842946700045104
-[16Jul2025 02:09:03.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.733298952694554,0.0,9.031236769733823
-[16Jul2025 02:09:03.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -18.08612638965758,0.0,9.219570606827347
-[16Jul2025 02:09:03.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -18.43893888205548,0.0,9.407943834583875
-[16Jul2025 02:09:03.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -18.79173792434517,0.0,9.596352513936381
-[16Jul2025 02:09:03.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.144524861537775,0.0,9.784793099724538
-[16Jul2025 02:09:03.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.49729909365226,0.0,9.973265782004546
-[16Jul2025 02:09:03.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.850061891196674,0.0,10.161767351126855
-[16Jul2025 02:09:03.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.202814397628345,0.0,10.350294918406235
-[16Jul2025 02:09:03.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.555557642058716,0.0,10.538845884026614
-[16Jul2025 02:09:03.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.908292550688202,0.0,10.727417908153257
-[16Jul2025 02:09:03.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.26101995709712,0.0,10.916008884934854
-[16Jul2025 02:09:03.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.61340589044903,0.0,11.105229371731639
-[16Jul2025 02:09:03.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.96481891534131,0.0,11.296164235347533
-[16Jul2025 02:09:03.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -22.314340890464223,0.0,11.490241171074558
-[16Jul2025 02:09:03.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -22.66076734189312,0.0,11.689100318521923
-[16Jul2025 02:09:03.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.003056363119413,0.0,11.893946918814436
-[16Jul2025 02:09:03.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.340328507438358,0.0,12.105633880884852
-[16Jul2025 02:09:03.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.67186058162224,0.0,12.324730439867835
-[16Jul2025 02:09:03.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.997081900519674,0.0,12.551573403356542
-[16Jul2025 02:09:04.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -24.315554876957663,0.0,12.786321463084732
-[16Jul2025 02:09:06.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6316ms or 126 ticks behind
-[16Jul2025 02:09:14.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 3.9842699089365397,0.0,9.606111997882635
-[16Jul2025 02:09:14.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.137518698772055,0.0,9.97557602085817
-[16Jul2025 02:09:14.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.29076765584,0.0,10.345040003925078
-[16Jul2025 02:09:14.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.444016763417039,0.0,10.71450395107422
-[16Jul2025 02:09:14.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.597266006452401,0.0,11.083967865897193
-[16Jul2025 02:09:14.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.7505153714001835,0.0,11.45343175162725
-[16Jul2025 02:09:14.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.90376484606918,0.0,11.822895611172953
-[16Jul2025 02:09:14.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 5.0570144194872455,0.0,12.192359447153194
-[16Jul2025 02:09:14.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 5.210264081779428,0.0,12.561823261924474
-[16Jul2025 02:09:14.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -3.9844946353283603,0.0,-9.60605836891773
-[16Jul2025 02:09:14.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -3.9844946353283603,0.0,-9.60605836891773
-[16Jul2025 02:09:14.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -3.9844946353283603,0.0,-9.60605836891773
-[16Jul2025 02:09:14.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -3.9844946353283603,0.0,-9.60605836891773
-[16Jul2025 02:09:14.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -3.9844946353283603,0.0,-9.60605836891773
-[16Jul2025 02:09:25.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4044ms or 80 ticks behind
-[16Jul2025 02:09:43.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2713ms or 54 ticks behind
-[16Jul2025 02:11:42.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6077ms or 121 ticks behind
-[16Jul2025 02:11:42.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward moved too quickly! 1.1766329091243506,4.341173720653032,9.057363947284557
-[16Jul2025 02:12:17.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Disconnected
-[16Jul2025 02:12:17.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
-[16Jul2025 02:13:56.019] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
-[16Jul2025 02:13:56.020] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
-[16Jul2025 02:13:56.020] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
-[16Jul2025 02:13:56.020] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
-[16Jul2025 02:13:56.020] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
-[16Jul2025 02:13:56.149] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
-[16Jul2025 02:13:56.150] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-57, z=-359}
-[16Jul2025 02:16:15.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [The Lighthouse]
-[16Jul2025 02:22:41.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has reached the goal [Greed may lead to loss]
-[16Jul2025 02:22:48.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[16Jul2025 02:22:48.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[16Jul2025 02:22:48.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[16Jul2025 02:22:48.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16Jul2025 02:22:49.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16Jul2025 02:22:49.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16Jul2025 02:22:49.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16Jul2025 02:22:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16Jul2025 02:22:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16Jul2025 02:22:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[16Jul2025 02:22:49.974] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16Jul2025 02:25:05.518] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[16Jul2025 02:25:05.522] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[16Jul2025 02:25:07.617] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16Jul2025 02:25:07.681] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[16Jul2025 02:25:08.097] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[16Jul2025 02:25:08.098] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[16Jul2025 02:25:08.099] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[16Jul2025 02:25:08.100] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[16Jul2025 02:25:08.368] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[16Jul2025 02:25:08.370] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[16Jul2025 02:25:11.219] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Jul2025 02:25:11.458] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[16Jul2025 02:25:11.460] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Jul2025 02:25:11.634] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Jul2025 02:25:11.731] [main/INFO] [Puzzles Lib/]: Loading 70 mods:
+	- addonslib 1.20.1-1.4
+	- amendments 1.20-1.2.19
+	- animal_feeding_trough 1.1.0+1.20.1-forge
+	- architectury 9.2.14
+	- artifacts 9.5.16
+		\-- expandability 9.0.4
+	- ati_structuresv 1.0.0
+	- balm 7.3.31
+		\-- kuma_api 20.1.10
+	- betterdungeons 1.20-Forge-4.0.4
+	- biomesoplenty 19.0.0.96
+	- carryon 2.1.2.7
+	- cataclysm 3.04
+	- cloth_config 11.1.136
+	- collective 8.3
+	- curios 5.14.1+1.20.1
+	- dungeons_arise 2.1.58-1.20.x
+	- dungeons_arise_seven_seas 1.0.2
+	- dynamiclights 1.8.7+mod
+	- easyanvils 8.0.2
+	- easymagic 8.0.1
+	- everycomp 1.20-2.8.8
+	- farmersdelight 1.20.1-1.2.8
+	- forge 47.4.0
+	- geckolib 4.7.2
+	- glitchcore 0.0.1.1
+	- incendium 5.3.5
+	- inventoryprofilesnext 1.10.14
+	- jade 11.13.1+forge
+	- jadeaddons 5.5.0+forge
+	- jei 15.20.0.112
+	- jeresources 1.4.0.247
+	- journeymap 5.10.3
+	- kotlinforforge 4.11.0
+	- libipn 4.0.2
+	- lionfishapi 2.4
+	- mcwbiomesoplenty 1.20.1-1.2.1
+	- mcwbridges 3.1.0
+	- mcwdoors 1.1.2
+	- mcwfences 1.2.0
+	- mcwfurnitures 3.3.0
+	- mcwlights 1.1.2
+	- mcwpaintings 1.0.5
+	- mcwpaths 1.1.0
+	- mcwroofs 2.3.2
+	- mcwstairs 1.0.1
+	- mcwtrpdoors 1.1.4
+	- mcwwindows 2.3.0
+	- minecraft 1.20.1
+	- moonlight 1.20-2.14.11
+	- mowziesmobs 1.7.3
+	- mr_dungeons_andtaverns 3.0.3.f
+	- puzzleslib 8.1.32
+		|-- mixinextras 0.4.1
+		\-- puzzlesaccessapi 20.1.1
+	- regions_unexplored 0.5.6
+	- securitycraft 1.10.0.1
+	- sophisticatedbackpacks 3.23.19.1263
+	- sophisticatedcore 1.2.71.1022
+	- stackrefill 4.7
+	- supplementaries 1.20-3.1.31
+		\-- mixinsquared 0.1.1
+	- suppsquared 1.20-1.1.21
+	- terrablender 3.0.1.10
+	- terralith 2.5.4
+	- tombstone 8.9.8
+	- trade_cycling 1.20.1-1.0.18
+	- travelersbackpack 9.1.39
+	- waystones 14.1.13
+	- yungsapi 1.20-Forge-4.0.6
+[16Jul2025 02:25:13.553] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/equipment/armor/BacktankBlockEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.equipment.armor.BacktankBlockEntity)
+[16Jul2025 02:25:13.553] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.equipment.armor.BacktankBlockEntity was not found jadeaddons.mixins.json:create.BacktankBlockEntityAccess
+[16Jul2025 02:25:13.760] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16Jul2025 02:25:20.868] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[16Jul2025 02:25:20.885] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[16Jul2025 02:25:20.991] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
+[16Jul2025 02:25:21.365] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[16Jul2025 02:25:21.369] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[16Jul2025 02:25:21.374] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[16Jul2025 02:25:21.375] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[16Jul2025 02:25:21.379] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[16Jul2025 02:25:21.381] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[16Jul2025 02:25:21.391] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[16Jul2025 02:25:21.392] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[16Jul2025 02:25:22.072] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[16Jul2025 02:25:22.073] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[16Jul2025 02:25:23.136] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[16Jul2025 02:25:23.146] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[16Jul2025 02:25:23.146] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Loading...
+[16Jul2025 02:25:23.330] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Is Charged !
+[16Jul2025 02:25:23.371] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[16Jul2025 02:25:23.644] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[16Jul2025 02:25:23.715] [modloading-worker-0/INFO] [Animal Feeding Trough/]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[16Jul2025 02:25:23.887] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[16Jul2025 02:25:23.918] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[16Jul2025 02:25:29.198] [main/INFO] [Moonlight/]: Initialized block sets in 38ms
+[16Jul2025 02:25:29.210] [main/INFO] [Every Compat/]: Registering Compat WoodType Blocks
+[16Jul2025 02:25:29.217] [main/INFO] [Every Compat/]: [module: farmersdelight]: registered 35 WoodType blocks
+[16Jul2025 02:25:29.221] [main/INFO] [Every Compat/]: [module: regions_unexplored]: registered 13 WoodType blocks
+[16Jul2025 02:25:29.269] [main/INFO] [Every Compat/]: [module: mcwbridges]: registered 140 WoodType blocks
+[16Jul2025 02:25:29.650] [main/INFO] [Every Compat/]: [module: mcwdoors]: registered 504 WoodType blocks
+[16Jul2025 02:25:29.733] [main/INFO] [Every Compat/]: [module: mcwfences]: registered 142 WoodType blocks
+[16Jul2025 02:25:30.343] [main/INFO] [Every Compat/]: [module: mcwfurnitures]: registered 1200 WoodType blocks
+[16Jul2025 02:25:30.357] [main/INFO] [Every Compat/]: [module: mcwlights]: registered 109 WoodType blocks
+[16Jul2025 02:25:30.359] [main/INFO] [Every Compat/]: [module: mcwpaths]: registered 24 WoodType blocks
+[16Jul2025 02:25:30.524] [main/INFO] [Every Compat/]: [module: mcwroofs]: registered 336 WoodType blocks
+[16Jul2025 02:25:30.717] [main/INFO] [Every Compat/]: [module: mcwtrpdoors]: registered 382 WoodType blocks
+[16Jul2025 02:25:30.797] [main/INFO] [Every Compat/]: [module: mcwwindows]: registered 398 WoodType blocks
+[16Jul2025 02:25:30.814] [main/INFO] [Every Compat/]: [module: mcwstairs]: registered 176 WoodType blocks
+[16Jul2025 02:25:30.814] [main/INFO] [Every Compat/]: Registering Compat LeavesType Blocks
+[16Jul2025 02:25:30.815] [main/INFO] [Every Compat/]: [module: regions_unexplored]: registered 17 LeavesType blocks
+[16Jul2025 02:25:30.836] [main/INFO] [Every Compat/]: [module: mcwfences]: registered 31 LeavesType blocks
+[16Jul2025 02:25:32.048] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[16Jul2025 02:25:32.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[16Jul2025 02:25:32.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[16Jul2025 02:25:32.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[16Jul2025 02:25:32.205] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[16Jul2025 02:25:32.205] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[16Jul2025 02:25:32.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: OUTDATED Current: 2.3.0 Target: 2.4.0
+[16Jul2025 02:25:32.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
+[16Jul2025 02:25:32.273] [main/INFO] [journeymap/]: Initializing Packet Registries
+[16Jul2025 02:25:32.325] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[16Jul2025 02:25:32.325] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[16Jul2025 02:25:32.326] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[16Jul2025 02:25:32.326] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[16Jul2025 02:25:32.388] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 4, 0, 1, 0, 0, 17, 10, 1] ms
+[16Jul2025 02:25:32.486] [main/INFO] [Moonlight/]: Initialized color sets in 93ms
+[16Jul2025 02:25:32.491] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[16Jul2025 02:25:32.491] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[16Jul2025 02:25:32.491] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[16Jul2025 02:25:32.491] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[16Jul2025 02:25:32.492] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[16Jul2025 02:25:32.503] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 3 for type OVERWORLD
+[16Jul2025 02:25:32.503] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 4 for type OVERWORLD
+[16Jul2025 02:25:32.503] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 5 for type OVERWORLD
+[16Jul2025 02:25:32.503] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 2 for type NETHER
+[16Jul2025 02:25:32.504] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 3 for type NETHER
+[16Jul2025 02:25:32.507] [main/WARN] [Every Compat/]: Registered 3507 compat children making up 29.06% of total children registered
+[16Jul2025 02:25:32.678] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[16Jul2025 02:25:32.691] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[16Jul2025 02:25:32.692] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[16Jul2025 02:25:32.694] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[16Jul2025 02:25:32.712] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[16Jul2025 02:25:32.716] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[16Jul2025 02:25:32.719] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[16Jul2025 02:25:32.721] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[16Jul2025 02:25:32.722] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
+[16Jul2025 02:25:39.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.7+mod Target: null
+[16Jul2025 02:25:39.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[16Jul2025 02:25:39.047] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[16Jul2025 02:25:39.047] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[16Jul2025 02:25:39.154] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[16Jul2025 02:25:39.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[16Jul2025 02:25:39.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
+[16Jul2025 02:25:39.193] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[16Jul2025 02:25:39.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[16Jul2025 02:25:39.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[16Jul2025 02:25:39.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[16Jul2025 02:25:39.220] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[16Jul2025 02:25:39.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[16Jul2025 02:25:39.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Jul2025 02:25:39.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[16Jul2025 02:25:39.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[16Jul2025 02:25:39.358] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.31 Target: null
+[16Jul2025 02:25:39.358] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[16Jul2025 02:25:39.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[16Jul2025 02:25:39.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[16Jul2025 02:25:39.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[16Jul2025 02:25:39.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[16Jul2025 02:25:39.667] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Jul2025 02:25:40.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
+[16Jul2025 02:25:40.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[16Jul2025 02:25:40.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.11 Target: null
+[16Jul2025 02:25:40.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[16Jul2025 02:25:40.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[16Jul2025 02:25:40.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[16Jul2025 02:25:40.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
+[16Jul2025 02:25:40.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[16Jul2025 02:25:40.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[16Jul2025 02:25:40.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[16Jul2025 02:25:40.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[16Jul2025 02:25:40.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[16Jul2025 02:25:40.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.8 Target: 9.0.2
+[16Jul2025 02:25:40.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
+[16Jul2025 02:25:40.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.2 Target: null
+[16Jul2025 02:25:40.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[16Jul2025 02:25:40.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[16Jul2025 02:25:40.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[16Jul2025 02:25:40.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[16Jul2025 02:25:40.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[16Jul2025 02:25:40.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[16Jul2025 02:25:45.422] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/assets/.mcassetsroot' uses unexpected schema
+[16Jul2025 02:25:45.422] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/data/.mcassetsroot' uses unexpected schema
+[16Jul2025 02:25:45.545] [pool-3-thread-2/INFO] [Every Compat/]: Dynamic server resources generation tasks: 152 in batches of: 38
+[16Jul2025 02:25:45.877] [pool-3-thread-7/ERROR] [Moonlight/]: Could not find resource mcwstairs:loot_tables/blocks/oak_balcony.json
+[16Jul2025 02:25:45.937] [pool-3-thread-2/INFO] [Every Compat/]: Tasks finished in: 388 ms
+[16Jul2025 02:25:45.984] [pool-3-thread-2/INFO] [Every Compat/]: Generated runtime SERVER_DATA for pack Everycomp Generated Pack (everycomp) in: 436 ms (multithreaded)
+[16Jul2025 02:25:45.985] [pool-3-thread-2/INFO] [Every Compat/]: Dynamic server assets generation took: 442.1 ms
+[16Jul2025 02:25:45.985] [main/INFO] [Moonlight/]: Generated runtime resources for 3 packs in a total of: 444 ms
+[16Jul2025 02:25:48.190] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: cataclysm:ceraunus (from L_Enders_Cataclysm-3.04.jar)
+[16Jul2025 02:25:48.359] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.8.jar
+[16Jul2025 02:25:51.107] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[16Jul2025 02:25:51.187] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[16Jul2025 02:25:51.234] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[16Jul2025 02:25:51.501] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[16Jul2025 02:25:51.775] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 8525 advancements
+[16Jul2025 02:25:51.802] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[16Jul2025 02:25:51.821] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[16Jul2025 02:25:51.829] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[16Jul2025 02:25:57.076] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[16Jul2025 02:25:57.163] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[16Jul2025 02:25:57.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[16Jul2025 02:25:57.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Jul2025 02:25:57.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Jul2025 02:25:57.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Jul2025 02:25:57.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Jul2025 02:25:57.630] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Jul2025 02:25:57.710] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Jul2025 02:25:57.710] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Jul2025 02:25:57.710] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Jul2025 02:25:57.711] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Jul2025 02:25:57.729] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[16Jul2025 02:25:57.731] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[16Jul2025 02:25:57.731] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[16Jul2025 02:25:57.734] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16Jul2025 02:25:57.735] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16Jul2025 02:25:57.736] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16Jul2025 02:25:58.402] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[16Jul2025 02:25:58.403] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[16Jul2025 02:25:58.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Jul2025 02:26:03.681] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "lionfishapi:modded".
+[16Jul2025 02:26:03.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Jul2025 02:26:05.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 02:26:05.687] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 02:26:05.688] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 02:26:05.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 02:26:05.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 02:26:06.187] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 02:26:06.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 02:26:07.190] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 02:26:07.777] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[16Jul2025 02:26:08.185] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[16Jul2025 02:26:08.684] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[16Jul2025 02:26:09.183] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[16Jul2025 02:26:09.281] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5598 ms
+[16Jul2025 02:26:09.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.557s)! For help, type "help"
+[16Jul2025 02:26:09.343] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Jul2025 02:26:09.460] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[16Jul2025 02:26:32.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ent144[/127.171.113.235:34699] logged in with entity id 400 at (-331.69999998807907, -14.0, 359.803284456795)
+[16Jul2025 02:26:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
+[16Jul2025 02:26:32.931] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
+[16Jul2025 02:26:38.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6217ms or 124 ticks behind

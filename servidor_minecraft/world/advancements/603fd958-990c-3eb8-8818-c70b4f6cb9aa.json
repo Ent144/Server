@@ -9217,100 +9217,63 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-16 02:22:41 +0000",
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+      "has_polished_granite": "2025-07-16 00:25:44 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+      "has_polished_granite": "2025-07-16 00:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-07-16 00:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-16 00:25:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-16 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-16 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-16 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-16 00:49:18 +0000"
     },
     "done": false
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+      "has_brick": "2025-07-16 00:49:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
-    "criteria": {
-      "has_smooth_quartz": "2025-07-16 01:40:48 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location1": "2025-07-16 01:10:18 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
     },
     "done": true
   },
@@ -9326,45 +9289,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2025-07-16 01:03:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_typhon": {
-    "criteria": {
-      "location0": "2025-07-16 01:53:45 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/fd/biomesoplenty/mahogany_cabinet": {
-    "criteria": {
-      "has_item": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_mahogany": {
-    "criteria": {
-      "has_item": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
-    "criteria": {
-      "has_item": "2025-07-16 01:34:36 +0000"
     },
     "done": true
   },
@@ -9380,75 +9307,15 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/mahogany_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
-    "criteria": {
-      "has_log": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcl/biomesoplenty/mahogany_tiki_torch": {
-    "criteria": {
-      "has_item": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab": {
-    "criteria": {
-      "has_polished_granite": "2025-07-16 00:25:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-07-16 00:25:44 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-07-16 02:01:35 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_paths": {
-    "criteria": {
-      "has_wood": "2025-07-16 01:34:36 +0000"
     },
     "done": true
   },
@@ -9470,12 +9337,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-07-16 02:10:55 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
@@ -9488,51 +9349,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-07-16 02:10:55 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-07-16 02:10:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-07-16 01:08:56 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sponge": {
-    "criteria": {
-      "has_sponge": "2025-07-16 02:16:54 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:36 +0000"
     },
     "done": true
   },
@@ -9548,63 +9367,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/skillet": {
-    "criteria": {
-      "has_brick": "2025-07-16 00:49:18 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_roofs": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-07-16 01:40:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-07-16 00:49:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-07-16 02:01:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs": {
-    "criteria": {
-      "has_polished_granite": "2025-07-16 00:25:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-07-16 02:16:15 +0000"
     },
     "done": true
   },
@@ -9614,33 +9379,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_small_blimp": {
-    "criteria": {
-      "location0": "2025-07-16 01:35:25 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-07-16 02:10:57 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
     },
     "done": true
   },
@@ -9662,33 +9403,9 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/mahogany_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:12:39 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
     },
     "done": true
   },
@@ -9698,69 +9415,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/mahogany_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-07-16 00:25:44 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/mcl/biomesoplenty/soul_mahogany_tiki_torch": {
-    "criteria": {
-      "has_item": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-07-16 02:10:55 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_fence": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-07-16 01:08:56 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-07-16 01:44:14 +0000"
     },
     "done": true
   },
@@ -9776,75 +9439,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/mahogany_button": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/ru/biomesoplenty/mahogany_branch_from_mahogany_log": {
-    "criteria": {
-      "has_item": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/kapok_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_door": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_furnitures": {
-    "criteria": {
-      "has_wood": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_planks_roofs": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:36 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_cupidity": {
-    "criteria": {
-      "coded_trigger": "2025-07-16 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
-    "criteria": {
-      "has_smooth_quartz": "2025-07-16 01:40:48 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/mahogany_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-07-16 01:40:48 +0000"
     },
     "done": true
   },
@@ -9854,33 +9451,15 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/mahogany_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-07-16 00:49:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/rope_mahogany_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-16 01:34:36 +0000"
     },
     "done": true
   },
@@ -9914,23 +9493,281 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/mahogany_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:34:26 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
-      "has_sherd": "2025-07-16 00:49:18 +0000"
+      "has_boat": "2025-07-16 00:59:58 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-07-16 01:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-16 01:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-16 01:08:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-07-16 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:12:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_furnitures": {
+    "criteria": {
+      "has_wood": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/mahogany_cabinet": {
+    "criteria": {
+      "has_item": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_mahogany": {
+    "criteria": {
+      "has_item": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_item": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/mahogany_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_paths": {
+    "criteria": {
+      "has_wood": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/biomesoplenty/soul_mahogany_tiki_torch": {
+    "criteria": {
+      "has_item": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/ru/biomesoplenty/mahogany_branch_from_mahogany_log": {
+    "criteria": {
+      "has_item": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_planks_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_mahogany_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
     "criteria": {
@@ -9950,21 +9787,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-07-16 00:49:18 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-07-16 00:59:58 +0000"
-    },
-    "done": true
-  },
   "mcwbiomesoplenty:recipes/mahogany_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-07-16 01:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-16 01:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-16 01:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-16 01:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-16 01:40:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-16 01:44:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-07-16 01:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-07-16 02:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-07-16 02:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-16 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-16 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-16 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-16 02:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-16 02:10:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-16 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge": {
+    "criteria": {
+      "has_sponge": "2025-07-16 02:16:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 02:22:41 +0000"
     },
     "done": true
   },
