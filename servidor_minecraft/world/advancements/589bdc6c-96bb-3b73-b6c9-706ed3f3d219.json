@@ -9058,6 +9058,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-16 00:49:13 +0000"
+    },
+    "done": false
+  },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-07-16 00:05:53 +0000"
