@@ -9253,6 +9253,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-16 04:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-16 04:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-07-16 03:35:45 +0000"
@@ -9262,6 +9274,12 @@
   "mcwpaths:recipes/brick": {
     "criteria": {
       "has_wood": "2025-07-16 03:14:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-07-16 04:41:22 +0000"
     },
     "done": true
   },
@@ -9307,6 +9325,12 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/quartz": {
+    "criteria": {
+      "has_planks": "2025-07-16 04:36:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-07-16 03:02:20 +0000"
@@ -9337,6 +9361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 04:36:23 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/brick_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-16 03:14:55 +0000"
@@ -9358,6 +9388,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-16 03:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 04:36:23 +0000"
     },
     "done": true
   },
@@ -9421,6 +9457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 04:36:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-16 04:18:58 +0000"
@@ -9478,6 +9520,18 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_chiseled_quartz_block": "2025-07-16 03:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-16 04:41:22 +0000"
     },
     "done": true
   },
@@ -9553,6 +9607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 04:36:23 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/brick_bridge": {
     "criteria": {
       "has_planks": "2025-07-16 03:14:55 +0000"
@@ -9583,9 +9643,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-16 04:41:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-07-16 04:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 04:36:23 +0000"
     },
     "done": true
   },
@@ -9598,6 +9670,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-07-16 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 04:36:23 +0000"
     },
     "done": true
   },
