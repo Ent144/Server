@@ -9076,6 +9076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-07-16 01:32:08 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-15 23:26:29 +0000"
@@ -9133,6 +9139,12 @@
   "mcwbiomesoplenty:recipes/redwood_stairs": {
     "criteria": {
       "has_planks": "2025-07-15 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-07-16 01:30:54 +0000"
     },
     "done": true
   },
