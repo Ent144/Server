@@ -2331,6 +2331,7 @@
       "minecraft:creeper": "2025-07-13 04:05:44 +0000",
       "minecraft:slime": "2025-07-14 09:38:19 +0000",
       "minecraft:evoker": "2025-07-15 05:26:57 +0000",
+      "minecraft:phantom": "2025-07-16 00:13:42 +0000",
       "minecraft:witch": "2025-07-13 01:41:59 +0000",
       "minecraft:wither_skeleton": "2025-07-14 04:25:20 +0000",
       "minecraft:husk": "2025-07-13 03:57:32 +0000",
@@ -8919,9 +8920,33 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-16 00:14:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-16 00:05:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2025-07-15 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-07-16 00:05:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-07-16 00:04:03 +0000"
     },
     "done": true
   },
@@ -8934,6 +8959,12 @@
   "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
     "criteria": {
       "has_magnet_upgrade": "2025-07-15 23:41:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-07-16 00:05:20 +0000"
     },
     "done": true
   },
@@ -9024,6 +9055,12 @@
   "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
     "criteria": {
       "has_brown_wool": "2025-07-15 23:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-16 00:05:20 +0000"
     },
     "done": true
   },

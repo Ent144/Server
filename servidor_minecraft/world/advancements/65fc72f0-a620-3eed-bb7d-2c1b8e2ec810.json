@@ -3743,6 +3743,8 @@
       "woodland": "2025-07-13 02:02:13 +0000",
       "scrubland": "2025-07-14 07:56:46 +0000",
       "highland": "2025-07-13 02:03:09 +0000",
+      "jacaranda_glade": "2025-07-16 00:02:44 +0000",
+      "jade_cliffs": "2025-07-16 00:05:52 +0000",
       "old_growth_woodland": "2025-07-13 02:04:17 +0000",
       "overgrown_greens": "2025-07-13 03:02:41 +0000",
       "redwood_forest": "2025-07-13 02:52:12 +0000",
@@ -6702,6 +6704,12 @@
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2025-07-15 23:46:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig_smithing": {
+    "criteria": {
+      "has_pig": "2025-07-16 00:03:24 +0000"
     },
     "done": true
   },

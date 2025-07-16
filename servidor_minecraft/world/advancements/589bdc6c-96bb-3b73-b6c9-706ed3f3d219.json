@@ -9058,6 +9058,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-07-16 00:05:53 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-15 23:26:29 +0000"
