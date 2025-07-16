@@ -910,6 +910,7 @@
       "shrubland": "2025-07-12 23:02:05 +0000",
       "pine_taiga": "2025-07-15 06:46:56 +0000",
       "autumnal_maple_forest": "2025-07-14 09:18:56 +0000",
+      "muddy_river": "2025-07-16 02:14:36 +0000",
       "ancient_delta": "2025-07-15 04:17:20 +0000",
       "willow_forest": "2025-07-14 05:47:36 +0000",
       "grassy_beach": "2025-07-15 06:45:42 +0000",
@@ -926,6 +927,7 @@
       "temperate_grove": "2025-07-12 22:56:26 +0000",
       "pine_slopes": "2025-07-14 10:18:29 +0000",
       "grassland": "2025-07-15 23:01:29 +0000",
+      "gravel_beach": "2025-07-16 02:15:08 +0000",
       "redwoods": "2025-07-12 22:51:32 +0000",
       "lupine_plains": "2025-07-16 01:50:35 +0000"
     },
@@ -936,6 +938,7 @@
       "shrubland": "2025-07-12 23:02:05 +0000",
       "pine_taiga": "2025-07-15 06:46:56 +0000",
       "autumnal_maple_forest": "2025-07-14 09:18:56 +0000",
+      "muddy_river": "2025-07-16 02:14:36 +0000",
       "willow_forest": "2025-07-14 05:47:36 +0000",
       "grassy_beach": "2025-07-15 06:45:42 +0000",
       "rocky_meadow": "2025-07-12 23:02:04 +0000",
@@ -951,6 +954,7 @@
       "temperate_grove": "2025-07-12 22:56:26 +0000",
       "pine_slopes": "2025-07-14 10:18:29 +0000",
       "grassland": "2025-07-15 23:01:29 +0000",
+      "gravel_beach": "2025-07-16 02:15:08 +0000",
       "redwoods": "2025-07-12 22:51:32 +0000",
       "lupine_plains": "2025-07-16 01:50:35 +0000"
     },
@@ -9213,6 +9217,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-16 02:22:41 +0000",
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:22:04 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
@@ -9441,6 +9518,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sponge": {
+    "criteria": {
+      "has_sponge": "2025-07-16 02:16:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
@@ -9516,6 +9599,12 @@
   "mcwbiomesoplenty:recipes/mahogany_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-16 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-16 02:16:15 +0000"
     },
     "done": true
   },
@@ -9726,6 +9815,12 @@
   "mcwbiomesoplenty:recipes/mahogany_planks_roofs": {
     "criteria": {
       "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 02:22:41 +0000"
     },
     "done": true
   },
