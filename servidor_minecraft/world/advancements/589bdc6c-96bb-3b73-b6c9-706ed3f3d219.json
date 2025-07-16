@@ -1351,7 +1351,8 @@
       "cooked_rabbit": "2025-07-15 04:25:58 +0000",
       "cooked_chicken": "2025-07-14 02:11:21 +0000",
       "enchanted_golden_apple": "2025-07-14 04:35:12 +0000",
-      "cod": "2025-07-15 03:17:33 +0000"
+      "cod": "2025-07-15 03:17:33 +0000",
+      "carrot": "2025-07-16 03:25:41 +0000"
     },
     "done": false
   },
@@ -6708,6 +6709,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-07-14 09:03:51 +0000",
+      "muddy_river": "2025-07-16 03:27:30 +0000",
       "ancient_delta": "2025-07-15 02:43:52 +0000",
       "grassy_beach": "2025-07-14 09:10:21 +0000",
       "rocky_meadow": "2025-07-14 09:18:03 +0000",
@@ -6716,6 +6718,7 @@
       "sparse_redwoods": "2025-07-14 09:29:11 +0000",
       "mountains": "2025-07-15 03:18:55 +0000",
       "deciduous_forest": "2025-07-14 09:18:43 +0000",
+      "boreal_forest": "2025-07-16 03:26:09 +0000",
       "temperate_grove": "2025-07-14 09:05:37 +0000",
       "grassland": "2025-07-14 09:10:18 +0000",
       "prairie": "2025-07-14 09:04:21 +0000",
@@ -6726,6 +6729,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-07-14 09:03:51 +0000",
+      "muddy_river": "2025-07-16 03:27:30 +0000",
       "grassy_beach": "2025-07-14 09:10:21 +0000",
       "rocky_meadow": "2025-07-14 09:18:03 +0000",
       "ochard": "2025-07-14 09:03:55 +0000",
@@ -6733,6 +6737,7 @@
       "sparse_redwoods": "2025-07-14 09:29:11 +0000",
       "mountains": "2025-07-15 03:18:55 +0000",
       "deciduous_forest": "2025-07-14 09:18:43 +0000",
+      "boreal_forest": "2025-07-16 03:26:09 +0000",
       "temperate_grove": "2025-07-14 09:05:37 +0000",
       "grassland": "2025-07-14 09:10:18 +0000",
       "prairie": "2025-07-14 09:04:21 +0000",
@@ -9218,6 +9223,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-16 03:31:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-07-16 03:14:55 +0000"
@@ -9278,6 +9289,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 03:28:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-16 03:14:55 +0000"
@@ -9305,6 +9322,12 @@
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-07-16 03:06:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-07-16 03:29:36 +0000"
     },
     "done": true
   },
@@ -9338,9 +9361,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-16 03:31:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-16 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-07-16 03:31:21 +0000"
     },
     "done": true
   },

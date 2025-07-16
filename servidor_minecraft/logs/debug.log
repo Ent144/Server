@@ -4750,3 +4750,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jul2025 03:16:34.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jul2025 03:21:34.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 03:21:34.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 03:26:34.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 03:26:34.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 03:28:19.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Funeral Theft]
+[16Jul2025 03:31:34.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 03:31:34.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

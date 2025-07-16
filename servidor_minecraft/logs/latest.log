@@ -272,3 +272,4 @@
 [16Jul2025 02:52:36.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.5227019919534541
 [16Jul2025 02:52:36.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.39481969322969235
 [16Jul2025 03:15:45.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19021ms or 380 ticks behind
+[16Jul2025 03:28:19.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Funeral Theft]
