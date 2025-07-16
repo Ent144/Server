@@ -6905,9 +6905,10 @@
     "criteria": {
       "in_better_zombie_dungeon": "2025-07-14 10:16:26 +0000",
       "in_better_monster_room": "2025-07-14 08:18:47 +0000",
-      "in_better_spider_dungeon": "2025-07-15 06:39:26 +0000"
+      "in_better_spider_dungeon": "2025-07-15 06:39:26 +0000",
+      "in_better_skeleton_dungeon": "2025-07-16 03:55:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "betterdungeons:small_dungeon": {
     "criteria": {
@@ -9894,6 +9895,18 @@
   "tombstone:adventure/use_cupidity": {
     "criteria": {
       "coded_trigger": "2025-07-16 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-07-16 03:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-16 03:56:03 +0000"
     },
     "done": true
   },
