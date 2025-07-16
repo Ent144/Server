@@ -265,3 +265,9 @@
 [16Jul2025 02:26:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 joined the game
 [16Jul2025 02:26:32.931] [Server thread/INFO] [Jade/]: Syncing config to Ent144 (603fd958-990c-3eb8-8818-c70b4f6cb9aa)
 [16Jul2025 02:26:38.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6217ms or 124 ticks behind
+[16Jul2025 02:47:19.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DuckHoward[/127.197.7.209:50213] logged in with entity id 85643 at (-920.7768433142651, 62.073264324665075, 2270.409981275471)
+[16Jul2025 02:47:19.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward joined the game
+[16Jul2025 02:47:20.305] [Server thread/INFO] [Jade/]: Syncing config to DuckHoward (589bdc6c-96bb-3b73-b6c9-706ed3f3d219)
+[16Jul2025 02:52:36.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.37092043709992595
+[16Jul2025 02:52:36.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.5227019919534541
+[16Jul2025 02:52:36.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.39481969322969235
