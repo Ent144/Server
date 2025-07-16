@@ -85,6 +85,7 @@
       "minecraft:river": "2025-07-12 22:49:10 +0000",
       "minecraft:lukewarm_ocean": "2025-07-15 06:46:19 +0000",
       "minecraft:stony_shore": "2025-07-12 22:57:15 +0000",
+      "minecraft:cold_ocean": "2025-07-16 02:09:34 +0000",
       "minecraft:forest": "2025-07-14 04:12:08 +0000",
       "minecraft:lush_caves": "2025-07-12 23:08:37 +0000",
       "minecraft:deep_cold_ocean": "2025-07-16 01:53:45 +0000",
@@ -2353,6 +2354,7 @@
       "minecraft:cave_spider": "2025-07-13 02:59:57 +0000",
       "minecraft:enderman": "2025-07-13 01:10:54 +0000",
       "minecraft:silverfish": "2025-07-13 02:59:03 +0000",
+      "minecraft:stray": "2025-07-16 02:05:41 +0000",
       "minecraft:zombie": "2025-07-12 23:07:55 +0000",
       "minecraft:drowned": "2025-07-12 23:11:26 +0000",
       "minecraft:zombie_villager": "2025-07-14 02:54:16 +0000"
@@ -9361,6 +9363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-07-16 02:01:35 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/mahogany_paths": {
     "criteria": {
       "has_wood": "2025-07-16 01:34:36 +0000"
@@ -9385,6 +9393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-16 02:10:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-16 00:59:58 +0000"
@@ -9394,6 +9408,18 @@
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-07-16 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-16 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-16 02:10:57 +0000"
     },
     "done": true
   },
@@ -9463,6 +9489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-07-16 02:01:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2025-07-16 00:25:44 +0000"
@@ -9508,6 +9540,12 @@
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-16 02:10:57 +0000"
     },
     "done": true
   },
@@ -9598,6 +9636,12 @@
   "everycomp:recipes/decorations/mcl/biomesoplenty/soul_mahogany_tiki_torch": {
     "criteria": {
       "has_item": "2025-07-16 01:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-16 02:10:55 +0000"
     },
     "done": true
   },

@@ -5903,3 +5903,123 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jul2025 02:06:04.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10753ms or 215 ticks behind
 [16Jul2025 02:06:30.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10683ms or 213 ticks behind
 [16Jul2025 02:06:56.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11269ms or 225 ticks behind
+[16Jul2025 02:07:11.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristh715 lost connection: Disconnected
+[16Jul2025 02:07:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristh715 left the game
+[16Jul2025 02:07:18.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6968ms or 139 ticks behind
+[16Jul2025 02:07:39.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 02:07:39.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 02:07:58.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16Jul2025 02:08:15.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[16Jul2025 02:08:43.089] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-413}
+[16Jul2025 02:08:43.089] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-415}
+[16Jul2025 02:08:43.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward has made the advancement [Smoke On The Water]
+[16Jul2025 02:08:45.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[16Jul2025 02:08:58.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.26394337345448093
+[16Jul2025 02:08:58.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.4805637924646362
+[16Jul2025 02:08:58.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.317829587862434
+[16Jul2025 02:08:58.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.4805637924646362
+[16Jul2025 02:08:58.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.3125348964017576
+[16Jul2025 02:08:58.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved wrongly! 0.25407916979747824
+[16Jul2025 02:09:03.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ent144 moved too quickly! -0.45154090600362906,-2.1060842324890743,-9.984195989552063
+[16Jul2025 02:09:03.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -9.44942408400459,0.0,4.1603466439064505
+[16Jul2025 02:09:03.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -9.807060299021373,0.0,4.32008700866254
+[16Jul2025 02:09:03.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -10.164673915179606,0.0,4.481813803304249
+[16Jul2025 02:09:03.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -10.522220581533588,0.0,4.645420844638011
+[16Jul2025 02:09:03.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -10.879663623235615,0.0,4.810805608950432
+[16Jul2025 02:09:03.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -11.23697680922669,0.0,4.977862065542013
+[16Jul2025 02:09:03.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -11.594138140879863,0.0,5.146491301775768
+[16Jul2025 02:09:03.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -11.95113120944552,0.0,5.316597411945622
+[16Jul2025 02:09:03.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -12.307944663140688,0.0,5.488087217070188
+[16Jul2025 02:09:03.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -12.664571746155502,0.0,5.660870007122412
+[16Jul2025 02:09:03.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -13.021008080718957,0.0,5.834860708362612
+[16Jul2025 02:09:03.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -13.37725322488484,0.0,6.009975929694974
+[16Jul2025 02:09:03.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -13.733306743648768,0.0,6.186140596783844
+[16Jul2025 02:09:03.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -14.08917176963132,0.0,6.363280331035185
+[16Jul2025 02:09:03.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -14.444851099839184,0.0,6.541328178678214
+[16Jul2025 02:09:03.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -14.800350798054865,0.0,6.7202170826653855
+[16Jul2025 02:09:03.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.15567630678106,0.0,6.899886682343094
+[16Jul2025 02:09:03.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.510834297508381,0.0,7.080279255658752
+[16Jul2025 02:09:03.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.8658307634023,0.0,7.261342845316449
+[16Jul2025 02:09:03.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -16.220672886450984,0.0,7.443027296011678
+[16Jul2025 02:09:03.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -16.575368914857677,0.0,7.6252840742322405
+[16Jul2025 02:09:03.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -16.9299262682797,0.0,7.808069497954875
+[16Jul2025 02:09:03.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.28435162068331,0.0,7.991344249635404
+[16Jul2025 02:09:03.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.63865277050263,0.0,8.175069555332811
+[16Jul2025 02:09:03.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.99283673632806,0.0,8.359210518501186
+[16Jul2025 02:09:03.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -18.34690983116559,0.0,8.543735728525007
+[16Jul2025 02:09:03.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -18.700879539760876,0.0,8.728613529562153
+[16Jul2025 02:09:03.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.0547525909343,0.0,8.913815433217678
+[16Jul2025 02:09:03.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.408535044349378,0.0,9.099315798074713
+[16Jul2025 02:09:03.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.762232349977808,0.0,9.285091544995794
+[16Jul2025 02:09:03.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.115849412793978,0.0,9.471121902758114
+[16Jul2025 02:09:03.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.46939245404053,0.0,9.657384792834364
+[16Jul2025 02:09:03.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.82286706911043,0.0,9.843860344552013
+[16Jul2025 02:09:03.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.176278290131904,0.0,10.030530676167473
+[16Jul2025 02:09:03.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.52963065347069,0.0,10.217379692250233
+[16Jul2025 02:09:03.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.882928238130717,0.0,10.404392906912562
+[16Jul2025 02:09:03.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -22.236174715215384,0.0,10.591557282856229
+[16Jul2025 02:09:03.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -22.589373388717718,0.0,10.778861086513189
+[16Jul2025 02:09:03.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -22.942527228505924,0.0,10.966293755810057
+[16Jul2025 02:09:03.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.29564071795255,0.0,11.153842404179613
+[16Jul2025 02:09:03.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.648716085326782,0.0,11.341498816274907
+[16Jul2025 02:09:03.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -14.909939050712524,0.0,7.526549282238648
+[16Jul2025 02:09:03.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.262947418854651,0.0,7.714393350999671
+[16Jul2025 02:09:03.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.615926366566327,0.0,7.902319022141455
+[16Jul2025 02:09:03.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -15.96887883589136,0.0,8.09031813542424
+[16Jul2025 02:09:03.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -16.321805667903163,0.0,8.278386729195518
+[16Jul2025 02:09:03.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -16.67470942633372,0.0,8.466517855405073
+[16Jul2025 02:09:03.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.027592418541758,0.0,8.654705260807077
+[16Jul2025 02:09:03.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.38045491065884,0.0,8.842946700045104
+[16Jul2025 02:09:03.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -17.733298952694554,0.0,9.031236769733823
+[16Jul2025 02:09:03.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -18.08612638965758,0.0,9.219570606827347
+[16Jul2025 02:09:03.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -18.43893888205548,0.0,9.407943834583875
+[16Jul2025 02:09:03.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -18.79173792434517,0.0,9.596352513936381
+[16Jul2025 02:09:03.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.144524861537775,0.0,9.784793099724538
+[16Jul2025 02:09:03.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.49729909365226,0.0,9.973265782004546
+[16Jul2025 02:09:03.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -19.850061891196674,0.0,10.161767351126855
+[16Jul2025 02:09:03.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.202814397628345,0.0,10.350294918406235
+[16Jul2025 02:09:03.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.555557642058716,0.0,10.538845884026614
+[16Jul2025 02:09:03.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -20.908292550688202,0.0,10.727417908153257
+[16Jul2025 02:09:03.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.26101995709712,0.0,10.916008884934854
+[16Jul2025 02:09:03.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.61340589044903,0.0,11.105229371731639
+[16Jul2025 02:09:03.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -21.96481891534131,0.0,11.296164235347533
+[16Jul2025 02:09:03.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -22.314340890464223,0.0,11.490241171074558
+[16Jul2025 02:09:03.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -22.66076734189312,0.0,11.689100318521923
+[16Jul2025 02:09:03.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.003056363119413,0.0,11.893946918814436
+[16Jul2025 02:09:03.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.340328507438358,0.0,12.105633880884852
+[16Jul2025 02:09:03.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.67186058162224,0.0,12.324730439867835
+[16Jul2025 02:09:03.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -23.997081900519674,0.0,12.551573403356542
+[16Jul2025 02:09:04.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -24.315554876957663,0.0,12.786321463084732
+[16Jul2025 02:09:06.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6316ms or 126 ticks behind
+[16Jul2025 02:09:14.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 3.9842699089365397,0.0,9.606111997882635
+[16Jul2025 02:09:14.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.137518698772055,0.0,9.97557602085817
+[16Jul2025 02:09:14.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.29076765584,0.0,10.345040003925078
+[16Jul2025 02:09:14.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.444016763417039,0.0,10.71450395107422
+[16Jul2025 02:09:14.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.597266006452401,0.0,11.083967865897193
+[16Jul2025 02:09:14.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.7505153714001835,0.0,11.45343175162725
+[16Jul2025 02:09:14.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 4.90376484606918,0.0,11.822895611172953
+[16Jul2025 02:09:14.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 5.0570144194872455,0.0,12.192359447153194
+[16Jul2025 02:09:14.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! 5.210264081779428,0.0,12.561823261924474
+[16Jul2025 02:09:14.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -3.9844946353283603,0.0,-9.60605836891773
+[16Jul2025 02:09:14.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -3.9844946353283603,0.0,-9.60605836891773
+[16Jul2025 02:09:14.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -3.9844946353283603,0.0,-9.60605836891773
+[16Jul2025 02:09:14.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -3.9844946353283603,0.0,-9.60605836891773
+[16Jul2025 02:09:14.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DuckHoward) moved too quickly! -3.9844946353283603,0.0,-9.60605836891773
+[16Jul2025 02:09:25.013] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[16Jul2025 02:09:25.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4044ms or 80 ticks behind
+[16Jul2025 02:09:43.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2713ms or 54 ticks behind
+[16Jul2025 02:10:18.834] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[16Jul2025 02:11:42.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6077ms or 121 ticks behind
+[16Jul2025 02:11:42.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward moved too quickly! 1.1766329091243506,4.341173720653032,9.057363947284557
+[16Jul2025 02:12:17.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DuckHoward lost connection: Disconnected
+[16Jul2025 02:12:17.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DuckHoward left the game
+[16Jul2025 02:13:04.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 02:13:04.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 02:13:56.019] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
+[16Jul2025 02:13:56.020] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
+[16Jul2025 02:13:56.020] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
+[16Jul2025 02:13:56.020] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
+[16Jul2025 02:13:56.020] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+[16Jul2025 02:13:56.149] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
+[16Jul2025 02:13:56.150] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-57, z=-359}
+[16Jul2025 02:16:15.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ent144 has made the advancement [The Lighthouse]
