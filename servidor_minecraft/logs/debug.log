@@ -5601,3 +5601,35 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jul2025 00:34:16.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5974ms or 119 ticks behind
 [16Jul2025 00:34:36.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4851ms or 97 ticks behind
 [16Jul2025 00:34:56.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5357ms or 107 ticks behind
+[16Jul2025 00:35:18.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6952ms or 139 ticks behind
+[16Jul2025 00:35:38.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5088ms or 101 ticks behind
+[16Jul2025 00:35:57.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4341ms or 86 ticks behind
+[16Jul2025 00:36:16.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4031ms or 80 ticks behind
+[16Jul2025 00:36:37.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5091ms or 101 ticks behind
+[16Jul2025 00:36:57.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5452ms or 109 ticks behind
+[16Jul2025 00:37:18.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5966ms or 119 ticks behind
+[16Jul2025 00:37:39.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6479ms or 129 ticks behind
+[16Jul2025 00:38:01.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6329ms or 126 ticks behind
+[16Jul2025 00:38:22.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6320ms or 126 ticks behind
+[16Jul2025 00:38:43.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6247ms or 124 ticks behind
+[16Jul2025 00:39:05.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6801ms or 136 ticks behind
+[16Jul2025 00:39:06.252] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[16Jul2025 00:39:26.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6554ms or 131 ticks behind
+[16Jul2025 00:39:49.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7390ms or 147 ticks behind
+[16Jul2025 00:40:13.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9028ms or 180 ticks behind
+[16Jul2025 00:40:38.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9964ms or 199 ticks behind
+[16Jul2025 00:41:02.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9413ms or 188 ticks behind
+[16Jul2025 00:41:22.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 00:41:22.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 00:41:27.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9975ms or 199 ticks behind
+[16Jul2025 00:41:52.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10259ms or 205 ticks behind
+[16Jul2025 00:42:02.357] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[16Jul2025 00:42:17.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10010ms or 200 ticks behind
+[16Jul2025 00:42:42.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9431ms or 188 ticks behind
+[16Jul2025 00:43:06.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9313ms or 186 ticks behind
+[16Jul2025 00:43:29.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8144ms or 162 ticks behind
+[16Jul2025 00:43:52.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8318ms or 166 ticks behind
+[16Jul2025 00:44:15.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7798ms or 155 ticks behind
+[16Jul2025 00:44:24.094] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[16Jul2025 00:44:38.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7976ms or 159 ticks behind
+[16Jul2025 00:45:02.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8406ms or 168 ticks behind
