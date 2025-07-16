@@ -9070,6 +9070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-07-16 01:51:18 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-15 23:26:29 +0000"
